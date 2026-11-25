@@ -1,0 +1,897 @@
+﻿ID	Japanese (normalized)	English	Byte length	Logical disk offsets (hex)	Patched logical offsets (hex)
+0	ヨウコソ トランシルバニア ヘ !	Welcome, traveler!	18	20201	20201
+1	ソレデハ ニュウコク テツヅキ ヲ シマショウ。	Let's get you checked in.	26	20215	20215
+2	アナタノ オナマエ ヲ 10モジイナイデ ニュウリョク シテクダサイ。	Enter your name (up to 10 characters).	38	20231	20231
+3	ソレデハ アナタ ヲ トランシルバニア ヘト オツレシマショウ。	Now, on to Transylvania.	34	20259	20259
+4	ハルカ カナタ ノ トケイダイ デ 12? ノ カネ ガ ナリマシタ。	A distant clock strikes midnight.	38	2027D	2027D
+5	キタ ヘト アルイテ ユキマス。	You walk north.	16	20C01	20C01
+6	モリハ ケワシク、 マックラナノデ ユクコトガ デキマセン。	The woods are too dark to enter.	33	20C13	20C13
+7	メノマエ ガ マックラ ニ ナッタカト オモウト、 アナタ ハ ドコカ	Your vision goes dark. You wake up	37	20C36	20C36
+8	ニ タッテイルノニ キガ ツキマシタ。	somewhere else.	20	20C5D	20C5D
+9	ココニハ ウエニ ユクミチ ハ アリマセン。	There's no way up.	22	20C73	20C73
+10	ココニハ シタニ ユクミチ ハ アリマセン。	There's no way down.	22	20C8B	20C8B
+11	キギガ ウッソウト オイシゲッテ イマス。	The trees grow thick.	24	20CA3	20CA3
+12	ツキ ガ デテイマス。	Moon's up.	13	20CBD 20E01	20CBD 20E01
+13	キミ ノ ワルイ マンゲツ デス。	An eerie full moon.	19	20CCC	20CCC
+14	トテモ オオキナ キ デス。	A huge tree.	15	20CE1	20CE1
+15	モジ ガ カイテアリマス。	It's inscribed.	15	20D01	20D01
+16	オオカミオトコ ガ アラワレマシタ。	A werewolf appears.	19	20D12 22C34 23569 24092 2493E 25382 25D70 26818 271A9 27A36 284B0 2A278 2A3CE 2B760 2C155 2CB5F 2D436 2DE2E 2E837 2F2D8 2FC2E 30633	20D12 22C34 23569 24092 2493E 25382 25D70 26818 271A9 27A36 284B0 2A278 2A3CE 2B760 2C155 2CB5F 2D436 2DE2E 2E837 2F2D8 2FC2E 30633
+17	ココニハ オオキナ キ、 オオキナ キリカブ ガ アリマス。 ソラ ニハ	A huge tree, a stump. In the sky,	38	20D27	20D27
+18	キリカブ ニハ ヤニガ コビリツイテ イルノデ モジハ ボンヤリ	Sap blurs the words on the stump	38	20D52	20D52
+19	「ココヲ タタケ」  ト カイテ アリマス。	"It says, ""KNOCK HERE."""	22	20D7D	20D7D
+20	アナタ ハ モッテイマセン。	You lack that.	14	20D95	20D95
+21	エンサンガ ヤニヲ トカシタノデ モジガ ヨメルヨウニ ナリマシタ。	The acid clears the sap and the words.	38	20DA5	20DA5
+22	ナメラカナ コケ ガ キ ヲ オオッテオリ、 キニ ノボルコト ハ	Slick moss coats the tree. Climbing	35	20DCD	20DCD
+23	ト シテイテ ヨメマセン。	hard to read.	13	20E10	20E10
+24	オット!! ビンガ コロガリオチテ ワレテシマイマシタ。	The bottle falls and shatters.	31	20E1F	20E1F
+25	デキマセン。	fails.	7	20E40 2B69C	20E40 2B69C
+26	キョウアクナ オオカミオトコ ガ イマス。	A fierce werewolf.	22	20E49	20E49
+27	モウ テオクレデス。 ケムクジャラナ アクマ ハ アナタ ヲ バンメシ	Too late. The shaggy beast made you	38	20E61	20E61
+28	ノ オカズ ニ シテ シマイマシタ。	its dinner.	19	20E89	20E89
+29	キリカブ	STUMP	5	20EAE	
+30	エンサン	ACID	4	20EC7	
+31	ソソグ	POUR	4	20ED2 344C2	
+32	ノボル	CLIMB	4	20ED8 22CD8 235E9 240DB 249A7 25406 27C52 290D5 2C1BE 2D5EC 2DFB6 2EA47 2FEEA 33039 339AA 34E56 361EF 36C73	
+33	フルイ キリカブノ マエニ イマス。                   キリカブ カラ、 カスカニ モジガ ヨミトレマス。	You face an old stump. Faint letters are visible on the wood.	66	20F00	20F00
+34	アナタ ハ ドア ノ ムコウニ アルイテ ユキマス。	You walk through the door.	27	21601	21601
+35	イワカベニ ナッテイテ ススムコトガ デキマセン。	A stone wall blocks the way.	28	2161E	2161E
+36	ドア ハ シマッテイマス。	Door is shut.	14	2163C 2211F	2163C 2211F
+37	ドア ハ アイテイマス。	Door is open.	13	2164C	2164C
+38	カギ ハ コワサレマシタ。	Lock broken.	14	2165B	2165B
+39	ドア ハ シメラレマシタ。	Door shuts.	14	2166B	2166B
+40	アチラコチラ カラ ブラサガッテ イマス。	They hang everywhere.	23	2167B	2167B
+41	ガレキ ノ ヤマ ノ ソバニハ ホン ガ オチテイマス。	A book lies beside the rubble.	31	21694	21694
+42	フルボケタ ボロボロ ノ ホン デス。	It's an old, torn book.	23	216B5	216B5
+43	ハエ ハ ホトンド ニゲテ シマイマシタ ガ、 ナンビキ カハ ハエ	Most of the flies got away. A few	38	216CE	216CE
+44	トリガミ デ ツカマリ マシタ。	stuck to flypaper.	18	21701	21701
+45	ハエ ハ イマセン。	No flies.	10	21715	21715
+46	ココニハ ホン、 ガレキ、 ショウニュウセキ、 ドア ガ アリマス。	A book, rubble, stalactites, a door.	37	21721	21721
+47	ツカマエヨウ ト シテモ、 トビサッテ シマウノデ デキマセン。	They fly off whenever you try.	35	21748	21748
+48	カギ ガ カカッテイマス。	It's locked.	15	2176D	2176D
+49	ナニヲ ツカッテ コワシマショウ ?	With what?	18	2177E	2177E
+50	ソレデハ ムリデス。	It won't do.	12	21792	21792
+51	ソンナ ベンリナ モノ モッテ イマセン。	You have no such tool.	22	217A0	217A0
+52	カギハ コワレテ アイテイマス。	The lock broke.	17	217B8	217B8
+53	ドア ハ アキマシタ。	Door opens.	12	217CB 22111	217CB 22111
+54	カギ ガ カカッテイテ アキマセン。	The door is locked.	20	217D9	217D9
+55	ブンブン ト トビマワッテ イマス。	They buzz about.	21	21801	21801
+56	ハエ ガ トビマワッテ イマス。	Flies buzz around.	18	21818	21818
+57	ホンヲ テニ スルト、 ドコカカラ ドナリ ゴエ ガ シマシタ。	You take the book. A voice bellows:	36	21832	21832
+58	「ソレハ ワシノ モノダ! デテイケ」	"""That's mine! Out!"""	21	21858	21858
+59	マホウ ノ ホン ガ アリマス。	A spellbook.	17	2186F	2186F
+60	ショウニュウセキ	STALACTITE	8	21882 2217F	
+61	ガレキ	RUBBLE	4	21891 22CB8	
+62	トジル	CLOSE	4	218BB 221AB 34E77 35801 36C8E	
+63	チイサナ ドウクツ ノ ナカデス。                   キタガワ ノ カベニ ドア ガ アリマス。	You're in a small cave. There's a door in the north wall.	63	21900	21900
+64	アナタ ハ ドア ヲ デテ アルイテ ユキマス。	You walk out the door.	26	22001	22001
+65	イワ ノ カベ ガ マワリ ヲ グルリ トリマイテ イマス。	Rock walls surround you.	33	2201D	2201D
+66	ウエ ニ ユク ミチ ハ アリマセン。	There's no way up.	19	22040 2A46B 3564C	22040 2A46B 3564C
+67	シタ ニハ ユクコトガ デキマセン。	You can't go down.	20	22055 22A7E 23462 2485B 2525D 25C65 26656 27053 27A61 29854 2B672 2C045 2D461 2DE59 2E862 3065E 31061 31A60 32460	22055 22A7E 23462 2485B 2525D 25C65 26656 27053 27A61 29854 2B672 2C045 2D461 2DE59 2E862 3065E 31061 31A60 32460
+68	メノマエ ノ ショウニュウセキ ハ、 オオキナ カガヤク クリスタル ヲ	The stalactite before you bears a	37	2206B	2206B
+69	イタダイテ イマス。	bright gem.	11	22092	22092
+70	アナタ ノ ウシロ ニ アル ドア ハ ヒライテ イマス。	The door behind you is open.	30	2209F	2209F
+71	ココニハ ショウニュウセキ ガ アリマス。 ソノウエ ニ アルノハ ヒカリ	There's a stalactite here. On it sits	38	220BF	220BF
+72	カガヤク クリスタル ノ タマ デス。	a bright crystal orb.	21	220E7	220E7
+73	ドア ハ アイテ イマス。	Door is open.	14	22101	22101
+74	ドア ハ シマリマシタ。	Door shuts.	13	2212F	2212F
+75	アナタ ノ ウシロ ニ アル ドア ハ シマッテ イマス。	The door behind you is shut.	30	2213E	2213E
+76	クリスタル	CRYSTAL	5	22189	
+77	スイショウ	QUARTZ	5	22190	
+78	ドウクツ ノ ナカデス。                        イシノダイ ノ ウエ ニ クリスタル ノ タマ ガ アリマス。	You're inside a cave. A crystal orb rests on a stone pedestal.	71	22300	22300
+79	アナタ ハ モリ ヲ ミナミ ニ アルイテ ユキマス。	You head south in the woods	27	22A01	22A01
+80	アナタハ タイボク ノ ソバヲ トオリ、 ニシ ニ アルイテ ユキマス。	You walk west past the giant tree.	38	22A1E	22A1E
+81	ミチ ハ ソチラ ニハ アリマセン。 マックラナ モリ デス。	No path. The woods are dark.	32	22A46	22A46
+82	ウエ ニハ ユクコトガ デキマセン。	You can't go up.	20	22A68 2344C 24845 25247 25C4F 26640 2703D 27A4B 2B65C 2CA30 2D44B 2DE43 2E84C 30648 3104B 31A4A 3244A	22A68 2344C 24845 25247 25C4F 26640 2703D 27A4B 2B65C 2CA30 2D44B 2DE43 2E84C 30648 3104B 31A4A 3244A
+83	イリグチ ニ ガレキ ノ ヤマ ガ デキテイル ドウクツ ヤ キ、	A tree and a cave with rubble at its	38	22A94	22A94
+84	ナド ガ アリマス。	mouth.	12	22ABC	22ABC
+85	キミ ノ ワルイ スガタ ヲ シタ、 オオキナ キ デス。	A huge, sinister-looking tree.	31	22ACA 234AF	22ACA 234AF
+86	マックラナ ソラ デス。	A dark sky.	13	22AEB 234D0 23EB9 248AF 252CF 25CCD 266CF 27ACA 2B6C8 2D4C4	22AEB 234D0 23EB9 248AF 252CF 25CCD 266CF 27ACA 2B6C8 2D4C4
+87	イリグチ ニ ガレキ ノ ヤマ ガ デキテイマス。	Rubble blocks the entrance.	29	22B01	22B01
+88	ウスキミ ノ ワルイ、 モリ デス。	An eerie forest.	19	22B20 23501	22B20 23501
+89	ドウクツ ノ イリグチ ヲ ビッシリ ト ウメツクシテ イマス。	It seals the cave entrance.	35	22B35	22B35
+90	ツルツル シタ コケ ガ ミキ ヲ オオッテオリ、 ノボレマセン。	Slick moss makes it unclimbable.	35	22B5A 23519 248D1 27B3D 28F01 2D537 2DF01 2E918	22B5A 23519 248D1 27B3D 28F01 2D537 2DF01 2E918
+91	ガレキ ハ ドウクツノ ナカマデ ウメツクシテ オリ、 デキマセン。	Rubble fills the cave. You can't.	38	22B7F	22B7F
+92	イワ ナド トッテモ シカタガ アリマセン。	Taking rocks won't help.	24	22BA7	22BA7
+93	イリグチ ガ フサガッテ オリ、 ハイルコトガ デキマセン。	The entrance is blocked.	35	22BC1	22BC1
+94	ミチ ハ ミナミ ト ニシ ニ ツヅイテ イマス。	Paths lead south and west.	26	22C01	22C01
+95	オソロシイ オオカミオトコ ガ イマス。	A dreadful werewolf.	21	22C1D 2357E 2407B 24927 2536B 25D59 26801 27192 27A01 28438 2A261 2A3E3 2AC17 2B749 2C13E 2CB48 2D401 2DE01 2E801 2F2C1 2FC01 30601	22C1D 2357E 2407B 24927 2536B 25D59 26801 27192 27A01 28438 2A261 2A3E3 2AC17 2B749 2C13E 2CB48 2D401 2DE01 2E801 2F2C1 2FC01 30601
+96	モウ テオクレ デス。 ケムクジャラ ナ アクマ ハ アナタ ヲ	Too late. The shaggy brute ate you	34	22C4C 23595 23FD0 24953 25397 25D85 267B9 27153 27BCE 285DA 28F95 2A401 2B778 2C16A 2CB74 2D58C 2DF62 2E9C9 2F457 3076F	22C4C 23595 23FD0 24953 25397 25D85 267B9 27153 27BCE 285DA 28F95 2A401 2B778 2C16A 2CB74 2D58C 2DF62 2E9C9 2F457 3076F
+97	バンメシ ノ オカズ ニ シテ シマイマシタ。	for dinner.	25	22C70 235B9 24977 253BB 25DA9 267DD 27177 27C01 28601 28FB9 2A425 2B79C 2C18E 2CB98 2D5B0 2DF86 2EA01 2F47B 30793	22C70 235B9 24977 253BB 25DA9 267DD 27177 27C01 28601 28FB9 2A425 2B79C 2C18E 2CB98 2D5B0 2DF86 2EA01 2F47B 30793
+98	タイボク	TREE	5	22C98	
+99	ドウクツ	CAVE	5	22CA3	
+100	ホラアナ	CAVERN	4	22CAA	
+101	ウゴカス	MOVE	5	22CBE 26878 271DE 290DF 311B1 31B89 3264A 33023	
+102	ドケル	SHIFT	4	22CC5	
+103	トリノゾク	REMOVE	6	22CD0	
+104	ドウクツ ノ チカク ニ イマスガ、 ソノ イリグチ ハ イワ ガ クズレテ イテ、 フサガッテ イマス。	A rockfall blocks the mouth of the cave beside you.	59	22D00	22D00
+105	シワクチャ ナ ノート ガ オチテ イマス。	A crumpled notebook.	23	23401	23401
+106	アナタハ クライ モリ ヲ アルイテ ユキマス。	You walk in dark woods.	24	2341A	2341A
+107	アナタ ハ ノート ヲ ヒロイアゲマシタ。	You take the notebook.	22	23434	23434
+108	タクサン ノ キギニ カコマレタ トコロ デス。	Trees surround you.	26	23478	23478
+109	シワクチャナ ノート ハ ミチ ニ オチテイマス。	A notebook on the path.	25	23494	23494
+110	コレイジョウ モノヲ モツコトハ デキマセン。	You can't carry any more.	25	234DF 27AD9 284C5 32601 36B1F	234DF 27AD9 284C5 32601 36B1F
+111	ミチ ハ トウザイ ナンボク ニ ツヅイテ イマス。	Paths run in all directions.	29	23547 27BA6 2DF3A	23547 27BA6 2DF3A
+112	クライ モリ ノ ナカ デス。 ミチ ハ シホウ ニ ツヅイテ イマス。	Dark woods. Paths branch four ways.	38	23700	23700
+113	オオキナ カエル ガ アナタ ヲ ミテイマス。	A big frog watches you.	24	23E01	23E01
+114	アナタハ クライ モリ ヘト アルイテ ユキマス。	You enter the dark woods.	25	23E1B	23E1B
+115	ユクコトガ デキマセン。	You can't go.	14	23E36 2FC43	23E36 2FC43
+116	ツキノ ヒカリ ヲ ウケタ ミズウミ ニハ ボート ガ ウイテイマス。	A boat floats on the moonlit lake.	38	23E4C	23E4C
+117	ムコウ ニ ミエル ノハ、 ヤナギ ノ キ デス。	That's a willow over there.	27	23E74	23E74
+118	カゼニ アオラレテ、 ハ ヲ ソヨソヨ ト ユスッテイル ヤナギデス。	The willow rustles in the wind.	38	23E91	23E91
+119	マルイ ツキ デス。	Round moon.	11	23EC8	23EC8
+120	ツキ ノ ヒカリ ヲ ハンシャ シテイル ミズウミ ノ タイガン ニハ	Across the moonlit lake stands	37	23ED5	23ED5
+121	コクオウ ノ シロ ガ アリマス。	the king's castle.	18	23F01	23F01
+122	ミズウミ ニ ウカンデイマス。	It floats there.	17	23F15	23F15
+123	ミキ ニ スベリヤスイ コケ ガ ツイテイテ、 デキマセン。	Slick moss coats the trunk.	33	23F28	23F28
+124	コンナ ツメタイ ミズ ノ ナカ デ オヨイダリ シタラ、 カゼ ヲ	This cold water will make you	38	23F4B	23F4B
+125	ヒキマスヨ。	sick.	6	23F73	23F73
+126	ヒガシ ニ ツヅイテ イマス。	It leads east.	17	23F7B	23F7B
+127	オナカ ガ スイテイル ヨウデス。	It looks hungry.	19	23F8E	23F8E
+128	ハネマワルノデ ツカマリマセン。	It hops away.	17	23FA3	23FA3
+129	カナリ フルクサイ テ ダト オモイマスガ。	Rather an old trick.	24	23FB6	23FB6
+130	バンメシ ノ	dinner	7	23FF4	23FF4
+131	カエルハ ハエヲ ガツガツ ノミコミマシタ。	Frog gulps up the flies.	24	24001	24001
+132	 ツタエテ オイテ クレナイカ」	Please tell him.	16	24041	24041
+133	ソウイウト カエルハ ミズウミニ トビコンデ スガタヲ ケシマシタ。	The frog dives into the lake.	38	24053	24053
+134	 オカズ ニ シテ シマイマシタ。	for dinner.	18	240A7	240A7
+135	ミズウミ	LAKE	5	240C7	
+136	アゲル	GIVE	4	240E5 2F4D3	
+137	オヨグ	SWIM	4	240F3	
+138	ミズウミ ニ ヨット ガ トマッテ イマス。              ミズウミ ノ ホトリ デス。 ヒガシ ヘ ユク ミチ ガ アリマス。	A sailboat floats on the lake. You stand on the shore. A path leads east.	76	24100	24100
+139	アナタハ モリ ヲ ミチ ニ ソッテ アルイテ ユキマス。	You follow the woodland path.	29	24804 2E818	24804 2E818
+140	ソノ ホウガク ニハ ミチ ハ アリマセン。 キケン デス。	No path that way. It's unsafe.	32	24823	24823
+141	ジメジメ ト シタ モリ ノ ナカ デス。	You're in damp woods.	24	24871	24871
+142	キョダイナ キギ ガ シカイ ヲ サエギッテ イマス。	Huge trees block your view.	31	2488E	2488E
+143	クライ モリ デス。	Dark woods.	11	248C1	248C1
+144	ミチ ハ ナンボク ト ヒガシ ニ ツヅイテ イマス。	Paths run north, south, east.	30	24904	24904
+145	モリ ノ ナカ ニ イマス。	In the woods.	14	24B00	24B00
+146	ソマツナ コヤデス。	A rough hut	11	25201	25201
+147	アナタハ ヨゴレタ ミチ ニ ソッテ アルイテ ユキマス。	You follow the dirty path.	30	2520E	2520E
+148	ソノ ホウガク ニハ ミチ ハ アリマセン。	No path that way.	23	2522E	2522E
+149	ミチ ヲ ハサンデ コヤ ト マルキゴヤ ガ アリマス。	A hut and cabin face each other	31	25273	25273
+150	ソトカラ ミルト、 マルキ ヲ ツンデ ツクッテ アル ヨウニ ミエマス。	It looks like it's built from logs.	38	25294	25294
+151	コヤ ノ ヨコ ニ タッテイマス。	Beside the hut.	17	252BC	252BC
+152	アナタ ハ チイサナ コヤ ニ ハイッテ ユキマス。	You enter the little hut.	26	252DE	252DE
+153	アナタ ハ マルキゴヤ ニ ハイッテ ユキマス。	You enter the log cabin.	25	25301	25301
+154	ミキ ニ ヌルヌル シタ コケ ガ ツイテイテ、 デキマセン。	Slick moss covers the trunk.	33	2531F	2531F
+155	ヨゴレタ ミチ ハ ナンボク ニ ハシッテイマス。	Dirt path runs north-south.	27	2534B	2534B
+156	マルキゴヤ	CABIN	6	253EB	
+157	コヤ ノ マエ ニ タッテイマス。                     アナタ ノ ウシロ ニ マルキゴヤ ガ アリマス。	You stand before the hut. A log cabin stands behind you.	65	25500	25500
+158	ユカ ニ ニンニク ガ オチテイマス。	Garlic on the floor.	20	25C01	25C01
+159	セマイ コヤ ノ ナカデハ ソンナニ ミウゴキ トレマセン。	The hut is too cramped.	32	25C17	25C17
+160	アナタ ハ コヤ ヲ デテ ユキマス。	You leave the hut.	20	25C39 2F223	25C39 2F223
+161	イタ ヲ ハリアワセタ、 カベ ニ カコマレテイマス。	Plank walls surround you.	28	25C7B	25C7B
+162	モリ ヤ ミチ、 ソシテ ソラ ガ ミエマス。	Woods, path, and sky.	24	25C99 26693	25C99 26693
+163	キ ノ イタ ヲ ハリアワセタ カベ デス。	It's a wooden wall.	24	25CB3	25CB3
+164	ミチ ハ ナンボク ヲ ハシッテ イマス。	The path runs N and S.	22	25CDC 266DE	25CDC 266DE
+165	モリ ハ トオク ニ ミエマス。	Woods lie ahead.	16	25D01 26701	25D01 26701
+166	アナタ ハ カガンデ ニンニク ヲ トリマシタ。	You bend and take garlic.	26	25D16 26716	25D16 26716
+167	ユカ ニ オチテイマス。	On the floor	12	25D32 26732 3255D	25D32 26732 3255D
+168	コレイジョウ モテマセン。	You're full.	14	25D40 26740 270E9 29070 298D5 2C113 2CB1A 2F33B 34448	25D40 26740 270E9 29070 298D5 2C113 2CB1A 2F33B 34448
+169	チイサナ コヤ ノ ナカ デス。                     デグチ ハ ヒガシ デス。	You're in a small hut. The exit lies east.	55	25F00	25F00
+170	マルキゴヤ ノ ナカデハ ソンナニ ミウゴキ トレマセン。	The cabin is too cramped.	32	26604	26604
+171	アナタ ハ マルキゴヤ ヲ デテ ユキマス。	You leave the cabin.	24	26626	26626
+172	ダンロ、 オジカ ノ ハクセイ、 ソシテ デグチ ガ アリマス。	A hearth, a stag's head, and an exit.	37	2666C	2666C
+173	ウチガワ ノ カベ ハ マルキ ノヨウニハ ナッテイマセン。	The inner walls aren't logs.	32	266AD	266AD
+174	オオキメ ノ ダンロ デス。	A big fireplace.	16	26753	26753
+175	オオキナ ツノ ヲ モツ、 リッパナ ハクセイ デス。	A fine stag, huge antlers.	29	26765 27104	26765 27104
+176	リッパナ ツノ デス。	Fine antlers.	13	26784 27123	26784 27123
+177	ツノ ヲ ヒクト、 カベ ガ グルリ ト マワリ ハジメマシタ。	You pull an antler. The wall turns.	36	26793	26793
+178	ダンロ	FIREPLACE	4	2685A	
+179	オジカ	STAG	4	26864 271CA	
+180	ハクセイ	MOUNT	4	2686A 271D0	
+181	マルキゴヤ ノ ナカ デス。 デグチ ハ ニシ デス。	A log cabin. The exit is west.	32	26900	26900
+182	ホコリッポイ マント ガ オチテイマス。	A dusty cloak is here.	22	27001	27001
+183	コノ ヘヤ ノ ナカデハ ソンナニ ミウゴキ トレマセン。	There's little room to move.	31	27019	27019
+184	オジカ ノ ハクセイ ガ アリマス。	A mounted stag.	20	27069	27069
+185	ウチガワ ノ カベ ハ マルキ ノ ヨウニハ ナッテイマセン。	The inner walls aren't logs.	33	27082	27082
+186	アナタ ハ ホコリ ヲ ハラッテ、 マント ヲ トリマシタ。	You dust and take the cloak.	30	270B1	270B1
+187	ユカ デ ホコリ ヲ カブッテ イマス。	On the floor, dusty.	22	270D1	270D1
+188	ツノ ヲ ヒクト、 カベ ガ グルリ ト マワリマシタ。	Pulling the antler turns it.	31	27132	27132
+189	アナタ ハ カクサレタ ヘヤ ニ ハイルコト ガ デキマシタ。	You step into the hidden room.	33	27300	27300
+190	アナタハ ウスキミワルイ モリ ヲ アルイテ ユキマス。	You walk in the eerie woods.	28	27A18	27A18
+191	カンオケ ヲ ノセタ、 コワレタ ニバシャ ガ アリマス。	A broken cart holds a coffin.	31	27A77	27A77
+192	ネズミ ハ ニゲテ シマイマシタ。	The rat ran off.	19	27A98	27A98
+193	キミ ノ ワルイ スガタ ノ オオキナ キ デス。	A huge, sinister tree.	27	27AAD	27AAD
+194	ムード ノ ワルイ、 モリ デス。	Ominous woods.	19	27B01	27B01
+195	ニバシャ ノ ウエ ニハ フルボケタ キ ノ オカン ガ アリマス。	An old wood coffin lies on the cart.	37	27B16	27B16
+196	フルボケテ ヨゴレテイル、 モクセイ ノ カンオケ デス。	An old, grimy wooden coffin.	32	27B62	27B62
+197	アナタ ハ コワレタ ニバシャ ニ ハイッテ ユキマス。	You climb into the old cart.	29	27B84	27B84
+198	バシャ	CART	4	27C2D 286BF	
+199	ヒツギ	COFFIN	4	27C3B 286C9 344AE	
+200	コワレタ ニバシャ ノ ソバ ニ イマス。	By the broken cart.	23	27D00	27D00
+201	イチド ニバシャ ヲ オリナイト ソチラ ニハ ユケマセン。	Get off the cart first.	32	28401	28401
+202	アナタ ハ ニバシャ ヲ オリマス。	You leave the cart.	19	28423	28423
+203	ウエ ニハ ユケマセン。	No way up.	12	2844F	2844F
+204	ネズミ ガ サンビキ イマス。	Three rats.	18	2845D	2845D
+205	カンオケ ガ アリマス。	A coffin.	13	28471	28471
+206	アナタ ハ イマ ソノ ウエ ニ イマス。	You're on it.	21	28480	28480
+207	シタイ モ、 アナタ ヲ ニランデ イマス。	The corpse glares back.	23	28497	28497
+208	モクセイ ノ ヒツギ デス。	A wooden coffin.	16	284E0	284E0
+209	カンオケ ニハ ク	It holds	9	284F2	284F2
+210	ゲンキ ノ イイ、 サンビキ ノ ネズミ デス。	Three lively rats.	28	28501	28501
+211	ツキ ノ ヒカリ ヲ ハンシャシテ、 カガヤイテ イマス。	It gleams in the moonlight.	30	2851F	2851F
+212	フタ ハ アイテイマス。	Lid open.	12	2853F 36C15	2853F 36C15
+213	フタ ヲ アケルト ハゲシイ アクシュウ ガ オソッテ キマシタ。	You lift the lid. A stench hits.	35	2854D	2854D
+214	フタ ハ シマッテイマス。	Lid closed.	13	28572 36C23	28572 36C23
+215	アナタ ハ オソロシクテ オモタイ フタ ヲ モツコトガ デキマセン。	The grim, heavy lid is too much.	37	28581	28581
+216	ソンナコト オソロシクテ トテモ デキマセン。	It's too frightening.	24	285A8	285A8
+217	オソルオソル ダンガン ヲ トリマシタ。	You take the bullet.	22	285C2	285C2
+218	アナタ ハ スバヤク ネズミ ヲ ツカマエマシタ。	You snatch up a rat.	27	2861C	2861C
+219	ココニハ カンオケ ガ アリマス。	A coffin is here.	18	28639	28639
+220	ココニハ クサッタ シタイ ノ ハイッタ カンオケ ガ アリマス。	A coffin holds a rotting corpse.	34	2864D	2864D
+221	ネズミハ ニゲテ シマイマシタ。	The rats fled.	18	28671	28671
+222	カンオケノ ナカニ ギンノ ダンガン ガ アリマス。	A silver bullet in the coffin.	30	28685	28685
+223	サッタ シタイ ガ ハイッテイマス。	A rotting corpse.	19	286A5	286A5
+224	ツカマエル	CATCH	5	286EF	
+225	コワレタ ニバシャ ノ ウエ ニ イマス。	You're atop the cart.	22	28700	28700
+226	ハカイシノ ソバニ ジュウジカ ガ オチテイマス。	A cross by the headstone.	29	28E01	28E01
+227	アナタハ モリ ヲ アルイテ ユキマス。	You enter the woods.	20	28E20 2DE18 2FC18	28E20 2DE18 2FC18
+228	ユケマセン。	No way	6	28E36 2F21B 34358	28E36 2F21B 34358
+229	ハカイシ ガ アリマス。	A headstone.	13	28E44	28E44
+230	オオキナ サビツイタ コウシド ガ アリマス。	A large, rusty iron gate.	26	28E53	28E53
+231	ツキ ノ ヒカリ ノ ギャクコウ ニ ナリ、 カゲノ ヨウデス。	It stands dark against the moon.	35	28E6F	28E6F
+232	オオキナ マンゲツ ノ ツキ ガ デテイマス。	A large full moon is up.	26	28E94	28E94
+233	ハカイシ ノ ウシロ ニ コウシド ガ アルノニ キヅキマシタ。	You spot a gate behind the grave.	35	28EB0	28EB0
+234	キギ ガ オイシゲッテイマス。	Trees grow thick.	18	28ED5	28ED5
+235	アナタ ハ ハカイシ 	You look at	11	28EE9	28EE9
+236	、 ココニ ネムル」	rests here	10	28F29	28F29
+237	ト シルサレテオリ、 ヒヅケ ハ キョウ ノ モノ ニ ナッテイマス。	The date on the stone is today's.	36	28F35	28F35
+238	ミチ ハ ナンボク ト ニシ ニ ツヅイテ イマス。	Paths lead N, S, and W.	28	28F5B	28F5B
+239	カカッテイマス。	Locked.	8	28F79	28F79
+240	アイテイマス。	Open.	7	28F83 34CDB 356B9	28F83 34CDB 356B9
+241	カカリマシタ。	Locked.	7	28F8C 3446E	28F8C 3446E
+242	アキマシタ。	Opened	6	28FD4	28FD4
+243	シマッテイマス。	Shut.	8	28FDC	28FDC
+244	シマリマシタ。	Closed.	7	28FE9	28FE9
+245	オオカミオトコ ガ イマス。	A werewolf.	15	29001	29001
+246	オオカミオトコ ガ メノマエ ニ アラワレマシタ。	A werewolf appears.	26	29012	29012
+247	コレイジョウ ウゴキマセン。	It won't budge.	16	2902E	2902E
+248	カギガ アリマセン。	No key.	12	29040	29040
+249	カギガ カカッテマス。	It's locked.	13	2904E	2904E
+250	ハカノ シタニ ハイッテユキマス。	You go below.	17	2905D	2905D
+251	モクセイ デス。	Wooden.	9	29080	29080
+252	カギハ 	Lock:	5	2908B	2908B
+253	コウシドハ 	Gate:	7	29092	29092
+254	ノ ウエカラ ジュウジカ ヲ ヒロイマシタ。	you pick up a cross.	24	2909B	2909B
+255	コウシド	GATE	5	290C9	
+256	ボチ ノ ナカ ニ イマス。	In a graveyard.	15	29100	29100
+257	ミズグスリ ガ オイテアリマス。	A potion lies here.	19	29801	29801
+258	セマイ チカシツ ノ ナカデハ ソンナニ ミウゴキ トレマセン。	The cellar is too cramped.	34	29816	29816
+259	アナタ チカシツ カラ デテ ユキマス。	You leave the cellar.	21	2983A	2983A
+260	ツキアカリ ガ サシコンデ イマス。	Moonlight seeps in.	20	2986A	2986A
+261	マックラナ カベデス。	A dark wall.	13	29883	29883
+262	アナタ ハ カガンデ ミズグスリ ヲ トリマシタ。	You pick up the potion.	29	2989E	2989E
+263	マホウ ノ ミズグスリ ノ ヨウデス。	Looks like a potion.	22	298BD	298BD
+264	チカシツ	CELLAR	4	29921	
+265	ボチ ノ シタ ノ チカシツ デス。	Under the graveyard.	20	29B00	29B00
+266	キミョウ ナ ドウゾウ ガ アリマス。	A strange statue.	22	2A201	2A201
+267	ウチュウセン ガ アカルク カガヤイテイマス。	A bright spaceship.	25	2A219	2A219
+268	ヤケコゲタ クサ ガ チョッケイ 30フィート ホドノ	Scorched grass forms a	30	2A234	2A234
+269	ワ ニ ナッテイマス。	30-ft ring.	11	2A254	2A254
+270	ドウゾウ ノ ナカデ オノノキ フルエル コエガ	A shaky voice in the statue	28	2A28D	2A28D
+271	「タスケテクレェ」  ト ヨンデイマス。	"cries, ""Help me!"""	21	2A2AB	2A2AB
+272	スバラシイ、 マッタク ステキダ !  オオ ドウシタ !	Splendid! Just splendid! Oh no!	32	2A2C2	2A2C2
+273	マワリ ガ ダンダン クラク ナッテクル。 ウアッ タスケテクレェ !	It's getting dark. Aah! Help me!	38	2A301	2A301
+274	オレンジイロ ノ オオキナ ウチュウセン デス。	A large orange spaceship.	26	2A329	2A329
+275	アキチ ノ ムコウガワ ニ キミョウナ ドウゾウ ガ アリマス。	A strange statue across the glade.	36	2A345	2A345
+276	モリ ノ アキチ デス。	A clearing.	13	2A36B	2A36B
+277	オレンジイロ ノ ソラトブ エンバン ガ アリマス。	An orange flying saucer.	30	2A37A	2A37A
+278	ヤケコゲタ クサ ノ ワ カラ ケムリ ガ タチノボッテイマス。	Smoke rises from the burnt ring.	35	2A39A	2A39A
+279	マックラ ナ ソラデス。	Dark sky.	13	2A3BF	2A3BF
+280	アナタ ハ ミチ ヲ アルイテユキマス。	You follow the path.	20	2A440	2A440
+281	ソチラ ニハ ミチ ガ アリマセン。	No path that way.	19	2A456	2A456
+282	シタ ニ ユク ミチ ハ アリマセン。	No way down.	19	2A480 35661	2A480 35661
+283	ウチュウセン	SPACESHIP	6	2A4A5	
+284	エンバン	SAUCER	5	2A4AD	
+285	モリ ノ ナカ ノ アキチ ニ イマス。	In a forest glade.	20	2A500	2A500
+286	オオカミオトコ ガ アラワレ マシタ。	A werewolf appears.	20	2AC01	2AC01
+287	モウ テオクレ デス。 ケムクジャラ ナ アクマ ハ アナタ ヲ 	Too late. The shaggy brute ate you	35	2AC2E	2AC2E
+288	バンメシ ノ  オカズ ニ シテ シマイ マシタ。	for dinner.	27	2AC53	2AC53
+289	ソノホウコウ ハ、 キ ガ オイシゲッテ イテ イケマセン。	Trees block the way.	32	2AC70	2AC70
+290	アナタハ、 ボチ ニ ムカッテ アルイテ ユキマス。	You head to the graveyard.	27	2AC92	2AC92
+291	アナタハ、 モリ ノ ナカ ヲ アルイテ ユキマス。	You walk in the woods.	26	2ACAF	2ACAF
+292	ココニハ、 ウエ ニ イケル ヨウナ ミチハ、 アリマセン。	There's no way up.	30	2ACCE	2ACCE
+293	ココニハ、 シタ ニ イケル ヨウナ ミチハ、 アリマセン。	There's no way down.	30	2AD01	2AD01
+294	ナニヤラ ブキミ ナ カンジ ガ スル。 キ デス。	An eerie tree.	30	2AD21	2AD21
+295	ヒョウメン ガ ヌルヌル シテ イテ ノボレ マセン。	Too slick to climb.	29	2AD41	2AD41
+296	ボンヤリ ト アタリ ヲ テラシテ イマス。	It gives a faint light.	23	2AD60	2AD60
+297	マックラ ナ ソラ デス。	A dark sky.	14	2AD79 2FC84	2AD79 2FC84
+298	コチラ ノ ヨウス ヲ ウカガッテ イマス。	It's watching you.	23	2AD89	2AD89
+299	キタハ、 キガ オイシゲッテ イマス。	Thick trees north.	21	2ADA2	2ADA2
+300	オクノ ホウ デ メガ ヒカッテ イマス。	Eyes glint in the dark.	23	2ADB9	2ADB9
+301	ミチハ、 ヒガシ ト ミナミ ニ ワカレテ イマス。	Paths lead east and south.	27	2ADD2	2ADD2
+302	エダ 	BRANCH	4	2ADF3	
+303	 ノボル	CLIMB	5	2AE01	
+304	 アガル	ASCEND	5	2AE08	
+305	モリ ノ ナカ デス。 イチバン キミ ノ ワルイ バショ デス。	The eeriest spot in the woods.	37	2AF00	2AF00
+306	アナタ ハ モリ ヘ アルイテ ユキマス。	You enter the woods.	21	2B601	2B601
+307	アナタ ハ イエ ノ ゲンカン カラ ハイッテ ユキマス。	You enter by the front door.	30	2B618	2B618
+308	ソチラ ニハ キギ ガ ハゲシク オイシゲリ ユクコト ガ	Thick trees block the way.	34	2B638	2B638
+309	フルボケタ イエ ガ アリマス。	An old house.	18	2B688	2B688
+310	レンガ ヲ フンダン ニ ツカッタ コフウ ナ イエ デス。	An old-fashioned brick house.	33	2B6A5	2B6A5
+311	ゲンカン ハ ステップ ヲ アガッタ トコロ ニ アリ、 トテモ	Steps lead to the entrance. It	35	2B6D7	2B6D7
+312	ウツクシイ ツクリ デス。	looks lovely.	14	2B701	2B701
+313	ナカ ハ マックラデ ヨク ミエマセン。	Too dark to see in.	21	2B711	2B711
+314	ミチ ハ ニシ ニ ノビテ イマス。	Path leads west.	19	2B734	2B734
+315	ゲンカン	ENTRY	5	2B7CC	
+316	アナタ ハ フルボケテハ イマスガ ユウガナ イエノ マエニ イマス。	You face a stately old house.	38	2B900	2B900
+317	アナタ ハ イエ ヲ デテ ユキマス。	You leave the house.	20	2C001	2C001
+318	アナタ ハ カイダン ヲ アガッテ ユキマス。	You go up the stairs.	25	2C017	2C017
+319	ソッチ ハ カベ デス。	A wall.	14	2C032 2CA1D	2C032 2CA1D
+320	カイダン ニ マド ガ アリマス。	A stairway window.	20	2C05B	2C05B
+321	クギ デ ウチツケテ アルラシク アキマセン。	It seems nailed shut.	25	2C071	2C071
+322	トオク ノ ホウ ニ シロ ガ ミエマス。	A distant castle.	22	2C08C 2CA75	2C08C 2CA75
+323	シロ ノ カベ ニハ ズガイコツ ガ キザミコマレテ イマス。	Skulls are carved into its walls.	36	2C0A4 2CA8D	2C0A4 2CA8D
+324	ウエ ニ ツヅク カイダン デス。	Stairs lead up.	20	2C0CA	2C0CA
+325	アナタ ハ ユカノ パン ヲ トリマシタ。	You pick up the bread.	22	2C0E6	2C0E6
+326	カビ クサイ パン デス。	Moldy bread.	16	2C101	2C101
+327	ユカ ニ パン ガ オチテイマス。	Bread on the floor.	19	2C129	2C129
+328	カイダン	STAIRS	5	2C1B7 2CBC1 33032 339A3 34E4F 361E8 36C6C	
+329	アガル	ASCEND	4	2C1C4 3303F 339B0 34E5C 361F5 36C79	
+330	フルクサイ イエ ノ ナカ デス。                    2カイ ニ アガル カイダン ガ アリマス。	An old house. Stairs lead up to the second floor.	63	2C300	2C300
+331	アナタ ハ カイダン ヲ オリテ ユキマス。	You go down the stairs.	23	2CA04 32E68 33851 34C68	2CA04 32E68 33851 34C68
+332	カイダン ト マド ガ アリマス。	Stairs and a window.	20	2CA46	2CA46
+333	コノ マドハ アケルコトガ デキマセン。	The window won't open.	23	2CA5C	2CA5C
+334	シタ ニ サガル カイダン デス。	Stairs lead down.	20	2CAB3	2CAB3
+335	アナタ ハ ピストル ヲ テニ シマシタ。	You take the pistol.	22	2CACF	2CACF
+336	フリントロック シキ ノ ピストル デス。	A flintlock pistol.	23	2CB01	2CB01
+337	キュウシキ ナ ピストル ガ アリマス。	An antique pistol.	22	2CB30	2CB30
+338	オオキナ ヤネウラベヤ デス。                     カイダン ハ シタヘト ツヅイテ イマス。	A large attic. Stairs lead down.	61	2CD00	2CD00
+339	アナタハ キギ ノ アイダ ヲ アルイテ ユキマス。	You walk among the trees.	28	2D418	2D418
+340	キギ ノ ムコウ ニ シロ ガ アリマス。	A castle beyond trees.	23	2D477 30674	2D477 30674
+341	ソチラ ニハ ミチ ハ ツヅイテ イマセン。	No path that way.	23	2D490 2DE97 3068D	2D490 2DE97 3068D
+342	ブキミ ナ スガタ ノ オオキナ キ デス。	An eerie, huge tree.	25	2D4A9	2D4A9
+343	タカイ トウノ ヘヤカラ ヒカリ ガ モレテイルヨウナ キ ガ シマス。	A light seems to glow high in a tower.	38	2D4D3	2D4D3
+344	ツキアカリ デ スコシ アカルク ナッテイマス。	Faintly lit by the moon.	25	2D501	2D501
+345	アナタハ シロ ニ ムカッテ アルイテ ユキマス。	You head for the castle.	25	2D51C	2D51C
+346	ミチ ハ トウザイ ト キタ ニ ツヅイテ イマス。	Paths lead E, W, and N.	28	2D565	2D565
+347	トウザイ オヨビ キタ ニ ツウジル サンサロ デス。       キタ ノ ミチ ヲ ユクト、 オシロ ガ アリマス。	Three paths meet here. The north path leads to a castle.	65	2D700	2D700
+348	キギヤ クサ ガ シゲリ、 シホウ ヘ ツヅク ミチガ アリマス。	Trees and grass crowd four paths.	38	2DE6F	2DE6F
+349	フクザツ ニ マガリクネル エダガ、 アヤシイ フンイキ ヲ	Twisted branches lend the place	34	2DEB0	2DEB0
+350	シッコク ノ ソラ デス。	Pitch-black.	14	2DED4	2DED4
+351	ヒドク ブキミナ モリ デス。	A sinister forest.	18	2DEE7	2DEE7
+352	タダヨワセテ イマス。	an eerie air	12	2DF26	2DF26
+353	モリ ノ オク デス。	Deep woods.	12	2E100	2E100
+354	チイサナ コヤ、 キノコ ナド ガ アリマス。	A hut and mushrooms.	25	2E878	2E878
+355	ソチラ ノ モリ ハ タイヘン ケワシク、 ススムコトガ デキマセン。	The woods are too dense that way.	37	2E893	2E893
+356	モリ ノ ナカ ニ オイシゲッテイマス。	They fill the woods.	21	2E8BA	2E8BA
+357	マックラ デス。	Dark.	9	2E8D1	2E8D1
+358	アナタ ハ コヤ ニ ハイッテユキマス。	You enter the hut.	20	2E8DC	2E8DC
+359	キギデ ウメツクサレテ イマス。	Thick with trees.	18	2E901	2E901
+360	オワン ヲ カブセタヨウナ カワイラシイ イエ デス。	A cute, bowl-shaped house.	29	2E93D	2E93D
+361	トテモ オオキク、 チョウド スワレルグライノ キノコ デス。	A mushroom big enough to sit on.	34	2E95C	2E95C
+362	キノコ ハ グニャリ ト ナリ、 アナタ ハ シリモチ ヲ ツキマシタ。	It buckles. You land on your rump.	37	2E980	2E980
+363	ミチ ハ ナンボク ニ ツヅイテ イマス。	The path runs N and S.	23	2E9A7	2E9A7
+364	ツチ デ デキタ コヤ ノ チカク デス。	Near a mud hut.	24	2EB00	2EB00
+365	エンサン ノ ハイッタ ビン ガ アリマス。	A bottle of acid.	24	2F201	2F201
+366	ツクエ ト イス ガ アリ、 ランプ ガ カケテ アリマス。	A table, chair, and hanging lamp.	33	2F23F	2F23F
+367	オモシロソウ ニ コッチ ヲ ミテイマス。	It watches, curious.	21	2F262	2F262
+368	クモノス ハ テンジョウ カラ カベ ニ カケテ ハッテアリマス。	Cobwebs drape the ceiling and wall.	35	2F279	2F279
+369	コヤノ ナカヲ アカルク テラス ツツガタノ ランプ デス。	A tube lamp lights the hut.	33	2F29E	2F29E
+370	ホウキ ガ アリマス。	A broom.	12	2F2ED	2F2ED
+371	アナタ ハ ツクエ ノ ウエ ノ エンサン ノ ビン ヲ トリマシタ。	You take the acid from the table.	36	2F301	2F301
+372	ツクエ ノ ウエ ニ ノッテイマス。	On the table.	18	2F327	2F327
+373	ウエ ニ ネコ ガ ノッテイマス。	A cat sits on it.	18	2F34B	2F34B
+374	シンプル ナ デザイン デス。	A simple design.	19	2F35F	2F35F
+375	ウエニ ビン ガ ノッテイマス。	A bottle sits.	18	2F374	2F374
+376	トクニ カワッタトコロ ノ ナイ テーブル デス。	An unremarkable table.	27	2F388	2F388
+377	「ニャーン」 トイウ ナキゴエガ キコエテキマシタ。	You hear a meow.	28	2F3A5	2F3A5
+378	ネコ ハ イカリクルッテ アナタ ヲ チカヅケヨウト シマセン。	The furious cat keeps you back.	33	2F3C3	2F3C3
+379	マックロ ナ ネコ デス。	A black cat.	14	2F3E6	2F3E6
+380	アナタ ハ ホウキ ヲ トリマシタ。	You get the broom.	18	2F401	2F401
+381	フルボケタ ホウキ デス。	An old broom.	15	2F415	2F415
+382	ネズミ ガ ニゲダスト、 ネコ ハ アト ヲ オイカケテ	The rat runs, and the cat gives	32	2F426	2F426
+383	スガタ ヲ ケシマシタ。	chase.	13	2F448	2F448
+384	ランプ	LAMP	4	2F496	
+385	テーブル	TABLE	5	2F4C4	
+386	ニガス	RELEASE	4	2F4DD	
+387	ツチ デ デキタ コヤ ノ ナカ デス。               デグチ ハ ニシ デス。	Inside a mud hut. The exit is west.	53	2F500	2F500
+388	ナニモ ナイ スナチ デス。	Empty sand.	15	2FC56	2FC56
+389	カギ ガ オチテイマス。	A key is here.	14	2FC67	2FC67
+390	オオキナ キ デス。	A big tree.	11	2FC77	2FC77
+391	ゴブリン ハ ニクニクシゲナ ヨウシ ヲ シタ イキモノ デス。	The goblin has a nasty look.	36	2FC94	2FC94
+392	ムコウ ニ ミエマス。	Over there.	11	2FCBA	2FCBA
+393	ゴブリンハ イタズラナ ダケデス。 コロスナンテ デキマセン。	The goblin is a pest, not a threat.	37	2FCC7	2FCC7
+394	ミキガ スベリヤスク ノ	The trunk is	14	2FCEE	2FCEE
+395	ゴブリン ハ スバシコク ツカマリマセン。	The goblin is too quick.	24	2FD01	2FD01
+396	フトッタ コガラナ ゴブリンガ キラキラ ヒカル チイサナ カギヲ	A squat goblin waves a small,	38	2FD1B	2FD1B
+397	フリマワシテ イマス。	shiny key.	11	2FD43	2FD43
+398	キタト ニシニ ツヅイテイマス。	North and west.	17	2FD50	2FD50
+399	ゴブリン ハ カギヲ ナゲダシ、 カナキリゴエ ヲ アゲテ	The goblin drops the key, squeals,	36	2FD63	2FD63
+400	クラヤミ ノ ナカヘ ニゲテ ユキマシタ。	and flees in the dark.	22	2FD89	2FD89
+401	キノ ソバニ オチテイマス。	By the tree.	15	2FDA1	2FDA1
+402	モウ テオクレデス。 ケムクジャラナ アクマハ	Too late. The beast	25	2FDB2	2FDB2
+403	アナタヲ バンメシノ オカズニ シテ シマイマシタ。	made you its dinner.	28	2FDCD	2FDCD
+404	ナニモノ カガ アナタノ アシモ	At your feet,	17	2FDEB	2FDEB
+405	ダレカガ アナタノ アタマノ ウエカラ ミズヲ ブッカケマシタ。	Someone dumps water on your head.	36	2FE01	2FE01
+406	ゴブリンハ ペラペラト ニクマレグチヲ タタイテイマス。	The goblin hurls insults at you.	33	2FE27	2FE27
+407	ダレカガ アナタノ アタマニ ヒヲ ツケマシタガ スグニ	Someone lights your hair. You	32	2FE4A	2FE4A
+408	ケスコトガ デキマシタ。	put it out.	14	2FE6C	2FE6C
+409	ヒロイマシタ。	Taken.	7	2FE7C	2FE7C
+410	コレイジョウ モノハ モテマセン。	Can't carry more.	18	2FE85	2FE85
+411	ボレマセン。	slick.	7	2FE99	2FE99
+412	トニ ヒヲ ツケマシタ。	lights it.	12	2FEA2	2FEA2
+413	ゴブリンガ モッテイマス。	Goblin has it.	16	2FEB0	2FEB0
+414	ゴブリン	GOBLIN	6	2FECA	
+415	ウバウ	SNATCH	4	2FEE0	
+416	アナタ ハ スナチ ノ ハラッパ ニ イマス。	On a sandy flat.	24	2FF00	2FF00
+417	アナタハ シロ ノ ナカ ニ ハイッテ ユキマス。	You enter the castle.	25	30618	30618
+418	ハシ ハ シロ ノ イリグチ ヘ ミチビイテイマス。	The bridge leads to the gate	28	306A6	306A6
+419	ガンジョウ ソウ ナ イリグチ デス。	A sturdy entrance.	23	306C4	306C4
+420	ブキミナ ムードヲ タダヨワセハ シマスガ リッパナ シロデス。	A splendid but eerie castle.	38	30701	30701
+421	アナタハ ミナミ ニ アルイテユキマシタ。	You head south.	21	30732	30732
+422	ミチ ハ ミナミ ニ ツヅイテ イマス。	The path leads south.	21	3074F	3074F
+423	イリグチ	ENTRANCE	5	307C0	
+424	インキナ シロ ノ マエ ニ イマス。	By a grim castle.	19	30900	30900
+425	キュウケツキ ガ ウデグミ ヲ シテ タッテイマス。	A vampire folds his arms.	29	31001 31A01 32401 32E01 33801 34C01 35601 36001	31001 31A01 32401 32E01 33801 34C01 35601 36001
+426	キュウケツキ ガ アラワレマシタ。	A vampire appears.	18	31020 31A20 32420 32E20 33820 34C20 35620 36020	31020 31A20 32420 32E20 33820 34C20 35620 36020
+427	アナタ ハ ホール ヲ デテ ユキマス。	You leave the hall.	21	31034	31034
+428	アカリ ガ チェック ノ ユカ ヤ ウツクシイ ハシラヲ テラシテイマス。	Light falls on tiles and columns.	38	31077	31077
+429	ジョウヒンナ チェック モヨウ デ イロドラレテイマス。	An elegant checkered pattern.	31	3109F 31A98 32498 32EA7	3109F 31A98 32498 32EA7
+430	ダイリセキ デ ツクラレテイマス。	Made of marble.	19	310C0 31AB9 324B9 32EC8	310C0 31AB9 324B9 32EC8
+431	シツナイ ヲ アカルク テラスノニ ヤクダッテイマス。	It lights the room.	28	310D5	310D5
+432	タイヘン ユウガナ カタチ ノ ハシラ デス。	A graceful column.	25	31101 32F01	31101 32F01
+433	ウゴキマセン。	Stuck.	8	3111F 31AE9 324E9 32F32	3111F 31AE9 324E9 32F32
+434	ローブニ ミヲ ツツミ、 アカイ ウラジノ マント ヲ ツケテイマス。	A robe and a red-lined cloak.	37	31132 31B1C 3252D 32F91 33955 34D66 35736 36136	31132 31B1C 3252D 32F91 33955 34D66 35736 36136
+435	テンジョウ	CEILING	6	31178 31B62 32623 32FD7 34E2B 357DB 361DB 36C4C	
+436	カガリビ	BRAZIER	6	3119F 33008 36C5E	
+437	シロ ノ イリグチ ホール デス。	Castle entry hall.	19	31300	31300
+438	アナタ ハ ヘヤ ヲ デテ ユキマス。	You leave the room.	20	31A34 32434	31A34 32434
+439	デイリグチ ノ ホカ トクニ カワッタモノ ハ アリマセン。	Only the doorway stands out.	32	31A76 32476	31A76 32476
+440	ホカ ノ ヘヤ ヘ ツヅイテイマス。	To another room.	19	31AD4 324D4	31AD4 324D4
+441	ソチラ ハ カベ ニ ナッテイマス。	A wall that way.	19	31B01 32501 32F7C 33940 34D51 35721 36121	31B01 32501 32F7C 33940 34D51 35721 36121
+442	デグチ	EXIT	5	31B98 32659	
+443	デイリグチ	DOORWAY	7	31B9F 32660	
+444	チイサナ ヘヤ デス。	A tiny room.	12	31D00	31D00
+445	ハエトリガミ ガ オチテイマス。	Some flypaper.	18	32519	32519
+446	クビニ イタミ ヲ カンジタカ ト オモウト、 ヘヤ ガ グルグル	Pain stabs your neck. The room	38	32577 34DA5 35775 36175	32577 34DA5 35775 36175
+447	マワリダシタ ヨウニ ミエマシタ。	seems to spin.	18	3259F 34DCD 3579D 3619D	3259F 34DCD 3579D 3619D
+448	メノマエ ガ マックラ ニ ナリ、 イシキ ガ ウスレテユキマシタ。	Your vision goes dark. You faint.	36	325B3 34E01 357B1 361B1	325B3 34E01 357B1 361B1
+449	アナタ ハ シャガンデ ハエトリガミ ヲ ヒロイマシタ。	You stoop and pick up flypaper.	31	325D9	325D9
+450	ヘヤ ノ ナカ デス。	In a room.	12	32700	32700
+451	アナタ ハ オオヒロマ ヲ デテ ユキマス。	You leave the hall.	23	32E34	32E34
+452	アナタ ハ カイダン ヲ ノボッテ ユキマス。	You go up the stairs.	25	32E4D 34C4D	32E4D 34C4D
+453	シャンデリア ガ ツルサレテイル、 タイヘン ヒロイ ヘヤ デス。	A chandelier hangs in a vast hall.	36	32E81	32E81
+454	ゴウカナ シャンデリア デス。	A fine chandelier.	18	32EDD	32EDD
+455	ウエ ト シタ ニ ツヅイテ イマス。	It goes up and down.	20	32F1C 34CE4 360BB	32F1C 34CE4 360BB
+456	ソチラ ニハ ウエ ニ ムカウ カイダン ガ アリマス。	Stairs go up that way.	30	32F3C 34D11 356D7 360DA 36B49	32F3C 34D11 356D7 360DA 36B49
+457	ソチラ ニハ シタ ニ オリル カイダン ガ アリマス。	Stairs go down that way.	30	32F5C 33920 34D31 35701 36101	32F5C 33920 34D31 35701 36101
+458	オオヒロマ	HALL	5	33001	
+459	シャンデリア	CHANDELIER	7	33015	
+460	クダル	DESCEND	4	3304A 339BB 34E67 36206	
+461	オオヒロマ デス。 カイダン ハ ニカイ ヘ ツヅキ、 チカ     ヘノ カイダン モ アリマス。 ミナミ ニハ デグチ ガ アリマス。	Great hall. Stairs lead to the upper floor and cellar. Exit south.	76	33100	33100
+462	アナタ ハ ハシゴ ヲ ノボッテ ユキマス。	You climb the ladder.	24	33837	33837
+463	タバネテアル カーテン ノ ムコウ ニ ハシゴ ガ アリマス。	A ladder behind tied curtains.	34	3386A	3386A
+464	オチツイタ カンジノ カーテン デス。	A subdued curtain.	21	3388E	3388E
+465	ウエ ニ ツヅイテ イマス。	It leads up.	15	338A5 36ADF	338A5 36ADF
+466	ナニモノ カガ ハシゴヲ ユラシ、 アナタ ハ ユカ ニ オチテ	Someone shakes the ladder. You	34	338B9	338B9
+467	シマイマシタ。	fall.	7	338DD	338DD
+468	ソチラ ニハ ウエ ニ ムカウ ハシゴ ガ アリマス。	A ladder leads up that way.	29	33901	33901
+469	カーテン	CURTAIN	4	33997	
+470	ハシゴ	LADDER	4	3399D 344A3	
+471	ニカイ ノ ヘヤ デス。 カイダン ハ シタ ニ ツヅイテ イマス。	Upper floor. Stairs lead down.	37	33B00	33B00
+472	ブドウノ ツタノ カタマリガ アリマス。	A tangle of vines.	23	34201	34201
+473	オオキナ イシノ ヒツギガ アリマス。	A big stone coffin.	21	3421A	3421A
+474	ヒツギノ ナカニハ ウツクシイ ジョセイガ ネムッテイマス。	A lovely woman sleeps inside.	33	34231	34231
+475	ミズグスリ ハ アリマセン。	No potion.	16	34254	34254
+476	ハシゴヲ オリテ ユキマス。	You climb down.	15	34266	34266
+477	ツキアカリ ニ テラサレテイル ナカ、 	In the moonlight,	20	34277	34277
+478	ツキガ カオヲ ノゾカセテイマス。	the moon peeks in.	19	3428D	3428D
+479	シタニ ムカッテイマス。	Leads down.	12	342A2	342A2
+480	ヘヤノ ナカニ ヒカリヲ ソソイデイマス。	It lights the room.	22	342B0	342B0
+481	ツタガ カラミアッテ オオキナ カタマリニ ナッテイマ	The vines form a knot.	28	342C8	342C8
+482	イシデ デキタ オオキナ ヒツギデス。	A big stone coffin.	23	34301	34301
+483	ムダナ ドリョク デス。 イシノ ヒツギハ フウイン サレテイマス。	It's futile. The coffin is sealed.	38	3431A	3431A
+484	シンダヨウニ ツメタク ナッテイマス。	She's cold as death.	20	34342	34342
+485	ソチラ ハ カベデス。	A wall.	13	34360	34360
+486	ハコカラ メモ クラムヨウナ ヒカリガ ハッシ、 イシノ ヒツギヲ	Light from the box bathes the	35	3436F	3436F
+487	ツツミマシタ。	coffin.	7	34394	34394
+488	スサマジイ オトト トモニ ヒツギノ フタハ コナゴナニ ナッテ	With a crash, the coffin lid	35	3439D	3439D
+489	トビチリマシタ。	shatters.	9	343C2	343C2
+490	トオクデ カミナリガ オチマシタ。	Distant thunder.	19	343CD	343CD
+491	サブリナハ ワズカニ ミウコ	Sabrina stirs	16	343E2	343E2
+492	ホホエンデ アナタヲ ミツメテイマス。	She smiles at you.	20	34401	34401
+493	ミズグスリノ ビンハ キエテ シマイマシタ。	The potion vanishes.	25	34417	34417
+494	アナタハ ナニカ ミツケタ ヨウデス。	You spot something.	20	34432	34432
+495	ナカミガ アワダチ ハジメマシタ。	It starts to bubble.	20	34458	34458
+496	ナニモ オコリマセン。	No effect.	11	34477	34477
+497	゙キシ、 ヤガテ メヲ サマシマシタ。	and opens her eyes.	20	34488	34488
+498	ボタン	BUTTON	4	344B8	
+499	サブリナ	SABRINA	5	344E4	
+500	ジョセイ	WOMAN	5	344EF	
+501	ツキ ノ ヒカリ ガ サンサン ト フリソソイデイマス。        トウ ノ ヘヤ デス。	A tower room bathed in moonlight.	50	34500	34500
+502	アナタ ハ チカロウ ヘ アルイテ ユキマス。	You go to the dungeon.	23	34C34	34C34
+503	ドアノ ムコウニ シタヘノ カイダン ガ アリマス。	Stairs down beyond the door.	29	34C81	34C81
+504	キタナイ ユカ デス。	Dirty floor.	12	34CA0 35684 36097	34CA0 35684 36097
+505	トクニ カワッタ トコロハ アリマセン。	Nothing unusual.	20	34CAE 35692 360A5	34CAE 35692 360A5
+506	ウエ ガ マルクナッタ ドア デス。	An arched door.	21	34CC4	34CC4
+507	コワレテイテ シマリマセン。	It won't shut.	14	34D01	34D01
+508	チカシツ デス。	A cellar.	9	34F00	34F00
+509	アナタ ハ チカロウ ヲ デテ ユキマス。	You leave the dungeon.	22	35634 36034	35634 36034
+510	ドア ガ アリマス。	A door.	12	35676	35676
+511	フルクナッタ ドア デス。	An old door.	15	356A8	356A8
+512	コワサレテ イテ シマリマセン。	Busted.	16	356C5	356C5
+513	トビラ	DOOR	4	357ED	
+514	チカロウ デス。	Dungeon.	9	35900	35900
+515	アナタ ハ カイダン ヲ ノボッテ ユキマシタ。	You go up the stairs.	26	3604C 36A4B	3604C 36A4B
+516	アナタ ハ カイダン ヲ オリテ ユキマシタ。	You go down the stairs.	24	36068	36068
+517	カイダン ノ オドリバ デス。	A stair landing.	19	36082	36082
+518	サガル	DESCEND	4	3620C	
+519	カビクサイ カイダン デス。	Musty stairs.	17	36300	36300
+520	オゴソカ ニ オイテアリマス。	On display.	16	36A01	36A01
+521	カガヤク ヨウナ ホノオ ハ、 マワリ ヲ アカルク テラシテ イマス。	The bright flames light the room.	37	36A13	36A13
+522	キラキラト カガヤテイマス。	It sparkles.	15	36A3A	36A3A
+523	コレイジョウ シタ ニ ユク カイダン ハ アリマセン。	The stairs go no farther down.	30	36A67	36A67
+524	カガリビガ コウコウト アタリヲ テラスナカ、 タカラノ ハコ ガ	In the bright torchlight a chest	37	36A87	36A87
+525	アツイ ジュウタン ガ シキツメテ アリマス。	Thick carpet covers it.	25	36AAE	36AAE
+526	ダイリセキ デ ツクラレテ イマス。	Made of marble.	20	36AC9	36AC9
+527	アナタ ハ ハコノ ナカカラ ユビワ ヲ トリマシタ。	You take the ring.	28	36B01	36B01
+528	ユビワ ガ アリマス。	A ring.	13	36B3A	36B3A
+529	ソンナ コトヨリ ホカ ニ スルコト ガ アルデショウ。	You have better things to do.	30	36B69	36B69
+530	ソチラ ハ カベ ニ ナッテイマス。 ススメマセン。	A wall blocks the way.	27	36B89	36B89
+531	フシギナ チカラガ ハタライテ、 アナタヲ ユビワニ テヲ	A strange force keeps you from	32	36BA9	36BA9
+532	フレルコト カラ サマタゲテ イマス。	touching the ring.	20	36BCB	36BCB
+533	ハコノ フタハ アケラレマシタ。	The lid is open.	16	36BE4	36BE4
+534	アナタハ フタヲ シメマシタ。	You close it.	15	36C01	36C01
+535	タイマツ	TORCH	4	36C66	
+536	オウ ノ タカラ ノ マ デス。	Royal treasury.	17	36D00	36D00
+537	キ カラ オチテ シマイマスヨ。	You'll fall!	16	37404 37461	37404 37461
+538	コレイジョウ ウエ ニハ ユクコトガ デキマセン。	You can't go any higher.	28	37419	37419
+539	アナタ ハ キ カラ オリマシタ。	You climb down.	17	37437	37437
+540	ケイジバン ガ カケラレテ イマス。	A sign hangs here.	21	3744A	3744A
+541	オオキナ ヤナギノ キ デス。	A huge willow.	17	37473	37473
+542	ナンジハ マホウツカイ 「ジン」 ノ ショユウチ ニ イル。	This land belongs to wizard Jin.	32	37486	37486
+543	「ジン」 ハ コノ モリ ノ マルキゴヤ ニ スンデイル。	Jin lives in a woodland cabin.	32	374A8	374A8
+544	タイヨウ ハ 5? ニ ナルト ノボル。	The sun rises at 5.	21	374CA	374CA
+545	ヤナギ	WILLOW	4	37514	
+546	ケイジ	SIGN	4	3751A	
+547	ヤナギノ キ ノ ウエ ニ イマス。	Up the willow tree.	19	37700	37700
+548	オウニ エッケン スルタメノ テツヅキモ ブジニ スミマシタ。	You are admitted to see the king.	34	37E01	37E01
+549	ヒメ ヲ オウ ニ オカエシ スルト、 ツカレテハ イテモ イマデハ	You return Sabrina to her father.	35	37E25	37E25
+550	アナタ ニ コウイ ヲ モチハジメテイル サブリナ ヒメ ハ	Weary but fond of you, she	32	37E4A	37E4A
+551	ユウガニ カンシャ ノ イ ヲ シメサレマシタ。	thanks you graciously.	25	37E6C	37E6C
+552	オウ ハ カタドオリ ノ カンシャ ハ シタモノノ、 コウ イワレマシタ。	The king thanks you, then says:	38	37E87	37E87
+553	「ワシ ノ モウ ヒトリ ノ ムスメ ガ アフリカ ノ オクチ デ	"""My other daughter is held"	35	37EAF	37EAF
+554	トラワレノ ミ ト ナッテイル。	deep in Africa.	16	37ED4	37ED4
+555	 ゴクロウダガ コノ ムスメ モ スクイダシテハ クレマイカ」	"Would you kindly rescue her too?"""	35	37F01	37F01
+556	イトシイ ヒト ノ デキタ アナタ ニハ モウ ボウケン ハ タクサン	In love, you had had quite enough	37	37F26	37F26
+557	デシタ。	peril	5	37F4D	37F4D
+558	ソノバン アナタ ハ ヒャクショウ ニ ミヲ ヤツシテ、 シロ カラ	Disguised as a peasant, you take	35	37F54	37F54
+559	サブリナ ヒメ ヲ ツレダシ マシタ。	Sabrina by night.	21	37F79	37F79
+560	フタリ ノ キボウ ノ チ ヘト、 ボート ハ ユルヤカ ニ ススンデ	Your boat drifts toward your dreams,	38	37F90	37F90
+561	ユクノデシタ。	together	8	37FB8	37FB8
+6809:266D	ﾓｳｲﾁﾄﾞ ｲﾚﾃ ｸﾀﾞｻｲ｡	Please try again.	17	38E72	38E72
+6809:2B2C	 0 ｶﾗ 9 ﾏﾃﾞﾉ ｽｳｼﾞ ｦ ｲﾚﾃ ｸﾀﾞｻｲ :	 Enter a digit from 0 to 9:	31	39331	39331
+6809:3366	 ｷｰ ｦ ｵｼﾃ ｸﾀﾞｻｲ､ ﾎﾞｳｹﾝ ｶﾞ ﾊｼﾞﾏﾘ ﾏｽ｡	Press a key to begin the adventure.	35	39B6B	39B6B
+RESPONSE:3A201	 ヲ トリ マシタ。	 taken.	10	3A201	3A201
+RESPONSE:3A20D	 ヲ オキ マシタ。	 dropped.	10	3A20D	3A20D
+RESPONSE:3A219	ハ、 ミアタリ マセン。	 isn't here.	12	3A219	3A219
+RESPONSE:3A227	 ヲ モッテ イマセン。	 not owned.	12	3A227	3A227
+RESPONSE:3A235	メズラシイ シュルイ ノ ハエ デス。	It's a rare fly.	21	3A235	3A235
+RESPONSE:3A24C	ハエ	Fl	2	3A24C	3A24C
+RESPONSE:3A250	ハエハ、 ドコカ ニ 	The fly has	12	3A250	3A250
+RESPONSE:3A25E	トンデ イッテ シマイ マシタ。	flown away.	17	3A25E	3A25E
+RESPONSE:3A271	「サブリナ ヒメハ、 ヨアケ ニ シヌ」	Sabrina dies at dawn.	21	3A271	3A271
+RESPONSE:3A288	ト カイテ アリマス。	 it says.	11	3A288	3A288
+RESPONSE:3A295	ナニカ カイテ アリマス。	There's text.	13	3A295	3A295
+RESPONSE:3A2A4	ノート	Pad	3	3A2A4	3A2A4
+RESPONSE:3A2A9	タダノ ニンニク デス。	Just garlic.	14	3A2A9	3A2A9
+RESPONSE:3A2B9	ニンニク	Herb	4	3A2B9	3A2B9
+RESPONSE:3A2BF	タベル ノハ、 ヨシタ ホウ ガ イイ デスヨ。	You'd better not eat it.	27	3A2BF	3A2BF
+RESPONSE:3A2DC	マホウ ノ マント デス。	A magic cloak.	14	3A2DC	3A2DC
+RESPONSE:3A2EC	マント	Cap	3	3A2EC	3A2EC
+RESPONSE:3A301	マント ノ ナカ カラ ナイフ ガ 	From the cloak,	19	3A301	3A301
+RESPONSE:3A316	デテ キマシタ。	a knife.	9	3A316	3A316
+RESPONSE:3A321	アナタハ、 モノ ヲ モチ スギテ、 イマス。	You carry too much.	24	3A321	3A321
+RESPONSE:3A33B	ナニカ オトシタラ ドウデ ショウ。	Try dropping an item	20	3A33B	3A33B
+RESPONSE:3A351	ホカノ コト ヲ シタ ホウ ガ 	You should do	18	3A351	3A351
+RESPONSE:3A365	イイ デスヨ。	elsewise	8	3A365	3A365
+RESPONSE:3A36F	アナタガ、	As you	6	3A36F	3A36F
+RESPONSE:3A377	 ヲ トロウト スルト、	 reach for	12	3A377	3A377
+RESPONSE:3A385	トツゼン。	Bang!	6	3A385	3A385
+RESPONSE:3A38D	キュウケツキ ガ オソイ カカッテ キテ、	A vampire attacks.	22	3A38D	3A38D
+RESPONSE:3A3A5	アナタハ、 シンデ シマイ マシタ。	You die.	19	3A3A5	3A3A5
+RESPONSE:3A3BA	マント ヲ キマシタ。	Cloak on.	11	3A3BA	3A3BA
+RESPONSE:3A3C7	スデニ マント ヲ キテ イマス。	Cloak already on.	18	3A3C7	3A3C7
+RESPONSE:3A3DB	マント ヲ ヌギ マシタ。	Cloak off.	14	3A3DB	3A3DB
+RESPONSE:3A401	マズ マント ヲ ヌギ マショウ。	Take the cloak off.	19	3A401	3A401
+RESPONSE:3AC01	 ヲ トリ マシタ。	 taken.	10	3AC01	3AC01
+RESPONSE:3AC0D	 ヲ オキ マシタ。	 dropped.	10	3AC0D	3AC0D
+RESPONSE:3AC19	ハ、 ミアタリ マセン。	 isn't here.	12	3AC19	3AC19
+RESPONSE:3AC27	 ヲ モッテ イマセン。	 not owned.	12	3AC27	3AC27
+RESPONSE:3AC35	アナタハ、 モノ ヲ モチ スギテ、 イマス。	You carry too much.	24	3AC35	3AC35
+RESPONSE:3AC4F	ナニカ オトシタラ ドウデ ショウ。	Try dropping an item	20	3AC4F	3AC4F
+RESPONSE:3AC65	サキ ガ スルドイ ナイフ デス。	It's a sharp knife.	20	3AC65	3AC65
+RESPONSE:3AC7B	ナイフ	Knf	3	3AC7B	3AC7B
+RESPONSE:3AC80	ギン ノ タマ デス。	Silver shot.	13	3AC80	3AC80
+RESPONSE:3AC8F	タマ	BB	2	3AC8F	3AC8F
+RESPONSE:3AC93	フトッテ イル ネズミ デス。	It's a fat rat.	17	3AC93	3AC93
+RESPONSE:3ACA6	ネズミハ、 ドッカ ニ イッテ シマイ マシタ。	The rat has gone away.	26	3ACA6	3ACA6
+RESPONSE:3ACC2	ネズミ	Rat	4	3ACC2	3ACC2
+RESPONSE:3ACC8	マホウ ノ カカッテ イル ミズグスリ デス。	It's an enchanted potion.	26	3ACC8	3ACC8
+RESPONSE:3ACE4	ミズグスリ	Potion	7	3ACE4	3ACE4
+RESPONSE:3AD01	ソンナ コトヨリ ホカ ノ コト ヲ 	You should think	19	3AD01	3AD01
+RESPONSE:3AD16	カンガエ マショウ。	of an idea.	11	3AD16	3AD16
+RESPONSE:3AD23	アナタガ、	As you	6	3AD23	3AD23
+RESPONSE:3AD2B	 ヲ トロウト スルト、	 reach for	12	3AD2B	3AD2B
+RESPONSE:3AD39	トツゼン。	Bang!	6	3AD39	3AD39
+RESPONSE:3AD41	キュウケツキ ガ オソイ カカッテ キテ、	A vampire attacks.	22	3AD41	3AD41
+RESPONSE:3AD59	アナタハ、 シンデ シマイ マシタ。	You die.	19	3AD59	3AD59
+RESPONSE:3B601	 ヲ トリ マシタ。	 taken.	10	3B601	3B601
+RESPONSE:3B60D	 ヲ オキ マシタ。	 dropped.	10	3B60D	3B60D
+RESPONSE:3B619	ハ、 ミアタリ マセン。	 isn't here.	12	3B619	3B619
+RESPONSE:3B627	 ヲ モッテ イマセン。	 not owned.	12	3B627	3B627
+RESPONSE:3B635	アナタハ、 モノ ヲ モチ スギテ、 イマス。	You carry too much.	24	3B635	3B635
+RESPONSE:3B64F	ナニカ オトシタラ ドウデ ショウ。	Try dropping an item	20	3B64F	3B64F
+RESPONSE:3B665	マダ タベラレル カモ シレ マセン。	It may still be good.	21	3B665	3B665
+RESPONSE:3B67C	パン	Bun	3	3B67C	3B67C
+RESPONSE:3B681	アナタハ、 マズイ パン ヲ タベ マシタ。	The bread tastes awful.	25	3B681	3B681
+RESPONSE:3B69C	キ ノ ジュウジカ デス。	A wooden cross.	16	3B69C	3B69C
+RESPONSE:3B6AE	ジュウジカ	Cross	7	3B6AE	3B6AE
+RESPONSE:3B6B7	ベツニ カワッタ トコロハ、 アリ マセン。	Nothing unusual.	23	3B6B7	3B6B7
+RESPONSE:3B6D0	エンサン	ACID	4	3B6D0	3B6D0
+RESPONSE:3B6D6	ゴク フツウ ノ ホウキ デス。	An ordinary broom.	18	3B6D6	3B6D6
+RESPONSE:3B6EA	ホウキ	Brm	3	3B6EA	3B6EA
+RESPONSE:3B701	ソンナ コトヨリ ホカ ノ コト ヲ 	Think of something	19	3B701	3B701
+RESPONSE:3B716	カンガエ テ クダサイ。	else to do.	14	3B716	3B716
+RESPONSE:3B726	サンハ、 アナタノ クチ ヲ ゴガシ、 アナタハ アワテテ	Acid burns your mouth. You	31	3B726	3B726
+RESPONSE:3B747	ハキダシ マシタ。	spit it.	10	3B747	3B747
+RESPONSE:3B753	オット ! ビンガ スベッテ コワレテ シマイマシタ。	The bottle slips and breaks.	30	3B753	3B753
+RESPONSE:3B773	キュウケツキ ガ オソイ カカッテ キテ、	A vampire attacks.	22	3B773	3B773
+RESPONSE:3B78B	アナタハ、 シンデ シマイ マシタ。	You die.	19	3B78B	3B78B
+RESPONSE:3C001	 ヲ トリ マシタ。	 taken.	10	3C001	3C001
+RESPONSE:3C00D	 ヲ オキ マシタ。	 dropped.	10	3C00D	3C00D
+RESPONSE:3C019	ハ、 ミアタリ マセン。	 isn't here.	12	3C019	3C019
+RESPONSE:3C027	 ヲ モッテ イマセン。	 not owned.	12	3C027	3C027
+RESPONSE:3C035	アナタハ、 モノ ヲ モチ スギテ、 イマス。	You carry too much.	24	3C035	3C035
+RESPONSE:3C04F	ナニカ オトシタラ ドウデ ショウ。	Try dropping an item	20	3C04F	3C04F
+RESPONSE:3C065	チイサナ カギ デス。	A small key.	13	3C065	3C065
+RESPONSE:3C074	カギ	Key	3	3C074	3C074
+RESPONSE:3C079	ネバネバ シテ イマス。	It's sticky.	14	3C079	3C079
+RESPONSE:3C089	ハエトリガミ	Flytrap	7	3C089	3C089
+RESPONSE:3C092	ナンノ ヘンテツ モ ナイ ツタ デス。	An ordinary vine.	21	3C092	3C092
+RESPONSE:3C0A9	ツタ	Iv	2	3C0A9	3C0A9
+RESPONSE:3C0AD	ホウセキ ヲ チリ バメタ ユビワ デス。	A ring set with gems.	24	3C0AD	3C0AD
+RESPONSE:3C0C7	ユビワ	Ring	4	3C0C7	3C0C7
+RESPONSE:3C0D3	ナニカ ホカノ コト ヲ シタ ホウ ガ 	Try something	22	3C0D3	3C0D3
+RESPONSE:3C0EB	イイ デスヨ。	else.	8	3C0EB	3C0EB
+RESPONSE:3C0F5	アナタガ、	As you	6	3C0F5	3C0F5
+RESPONSE:3C101	 ヲ トロウト スルト、	 reach for	12	3C101	3C101
+RESPONSE:3C10F	トツゼン。	Bang!	6	3C10F	3C10F
+RESPONSE:3C117	キュウケツキ ガ オソイ カカッテ キテ、	A vampire attacks.	22	3C117	3C117
+RESPONSE:3C12F	アナタハ、 シンデ シマイ マシタ。	You die.	19	3C12F	3C12F
+RESPONSE:3C144	ユビワ ヲ ハメ マシタ。	Ring on.	14	3C144	3C144
+RESPONSE:3C154	マズ ユビワ ヲ ハズシテ カラ デス。	Take the ring off first.	24	3C154	3C154
+RESPONSE:3C16E	ユビワ ヲ ハズシ マシタ。	You remove it.	16	3C16E	3C16E
+RESPONSE:3C180	モウ スデニ ユビワ ヲ シテ イマス。	You're wearing it.	22	3C180	3C180
+RESPONSE:3CA01	 ヲ トリ マシタ。	 taken.	10	3CA01	3CA01
+RESPONSE:3CA0D	 ヲ オキ マシタ。	 dropped.	10	3CA0D	3CA0D
+RESPONSE:3CA19	ハ、 ミアタリ マセン。	 isn't here.	12	3CA19	3CA19
+RESPONSE:3CA27	 ヲ モッテ イマセン。	 not owned.	12	3CA27	3CA27
+RESPONSE:3CA35	アナタハ、 モノ ヲ モチ スギテ、 イマス。	You carry too much.	24	3CA35	3CA35
+RESPONSE:3CA4F	ナニカ オトシタラ ドウデ ショウ。	Try dropping an item	20	3CA4F	3CA4F
+RESPONSE:3CA65	ボタン ガ ツイテ イマス。	It has a button.	16	3CA65	3CA65
+RESPONSE:3CA77	ハコ	Bx	2	3CA77	3CA77
+RESPONSE:3CA7B	マダ ツカエ ソウ デス。	Still usable.	15	3CA7B	3CA7B
+RESPONSE:3CA8C	ピストル	Gun	5	3CA8C	3CA8C
+RESPONSE:3CA93	ナニカ ホカノ コト ヲ シタ ホウ ガ 	Try something	22	3CA93	3CA93
+RESPONSE:3CAAB	イイ デスヨ。	elsewise	8	3CAAB	3CAAB
+RESPONSE:3CAB5	アナタガ、	As you	6	3CAB5	3CAB5
+RESPONSE:3CABD	 ヲ トロウト スルト、	 reach for	12	3CABD	3CABD
+RESPONSE:3CACB	トツゼン。	Bang!	6	3CACB	3CACB
+RESPONSE:3CAD3	キュウケツキ ガ オソイ カカッテ キテ、	A vampire attacks.	22	3CAD3	3CAD3
+RESPONSE:3CB01	アナタハ、 シンデ シマイ マシタ。	You die.	19	3CB01	3CB01
+RESPONSE:3D401	ヲ モッテ イマス。	 carried.	10	3D401	3D401
+RESPONSE:3D40D	ナニモ モッテ イマセン。	You have none	13	3D40D	3D40D
+RESPONSE:3D41C	ハエ、 	Fly,	4	3D41C	3D41C
+RESPONSE:3D422	ノート、 	Note,	5	3D422	3D422
+RESPONSE:3D429	ニンニク、 	Garlic	6	3D429	3D429
+RESPONSE:3D431	マント、 	Cape,	5	3D431	3D431
+RESPONSE:3D438	ナイフ、 	Knf,	5	3D438	3D438
+RESPONSE:3D43F	ダンガン、 	Bullet,	8	3D43F	3D43F
+RESPONSE:3D449	ネズミ、 	Rat,	6	3D449	3D449
+RESPONSE:3D451	ミズグスリ、 	Potion,	9	3D451	3D451
+RESPONSE:3D45C	パン、 	Loaf,	5	3D45C	3D45C
+RESPONSE:3D463	ピストル、 	Gun,	7	3D463	3D463
+RESPONSE:3D46C	エンサン、 	Acid,	6	3D46C	3D46C
+RESPONSE:3D474	ホウキ、 	Brm,	5	3D474	3D474
+RESPONSE:3D47B	カギ、 	Key,	5	3D47B	3D47B
+RESPONSE:3D482	ハエトリガミ、 	Flypaper,	9	3D482	3D482
+RESPONSE:3D48D	ツタ、 	Ivy,	4	3D48D	3D48D
+RESPONSE:3D493	ユビワ、 	Ring,	6	3D493	3D493
+RESPONSE:3D49B	ハコ、 	Box,	4	3D49B	3D49B
+RESPONSE:3D4A1	ジュウジカ、 	Cross,	9	3D4A1	3D4A1
+RESPONSE:3D4AC	ソンナ モノ ヲ ミテ イル ヒマハ、 	You have no time	20	3D4AC	3D4AC
+RESPONSE:3D4C2	ナイ デスヨ。	for it.	8	3D4C2	3D4C2
+RESPONSE:3D4CC	ドノ ホウガク デスカ ?	Which direction?	16	3D4CC	3D4CC
+RESPONSE:3D4DE	ソンナ コト ヲ シテイル ヒマハ、 ナイ デスヨ。	There's no time for that.	27	3D4DE	3D4DE
+RESPONSE:3DE01	クリスタル ノ タマ ヲ ミテイルト、 フシギナ オレンジイロ ノ	In the crystal you see a strange	35	3DE01	3DE01
+RESPONSE:3DE26	ホノオ ガ ミエテ キマシタ。	orange flame.	16	3DE26	3DE26
+RESPONSE:3DE38	サラニ ミツメテイルト モリ ノ アキチ ノ シロイ ドウゾウ ノ	You look closer and see yourself	35	3DE38	3DE38
+RESPONSE:3DE5D	チカク ニ タッテイル ジブン ノ スガタ ガ ミエテ キマシタ。	by a white statue in a clearing.	37	3DE5D	3DE5D
+RESPONSE:3DE84	マホウ ノ マント ヲ キタ ソノ スガタ ハ ドウゾウ ニ	In a magic cloak, you approach	33	3DE84	3DE84
+RESPONSE:3DEA7	チカヅイテ ユキマス。	the statue.	12	3DEA7	3DEA7
+RESPONSE:3DEB5	ソノ ユビニハ シロク カガヤク ジュンキン ノ ユビワ ヲ	A pure gold ring gleams white	34	3DEB5	3DEB5
+RESPONSE:3DED9	ハメテ イマス。	on you.	8	3DED9	3DED9
+RESPONSE:3DF01	カレ ガ テ ヲ フルト、 ドウゾウ ノ マワリ ノ モノ ハ	At your wave, everything near	34	3DF01	3DF01
+RESPONSE:3DF25	スベテ ミドリ イロ ノ カガヤキ ニ ソマリマス。	the statue glows green.	29	3DF25	3DF25
+RESPONSE:3DF44	トツゼン カミナリ ニ ウタレタヨウナ ショック ヲ カンジルト、	A shock hits you like lightning.	35	3DF44	3DF44
+RESPONSE:3DF69	キュウ ニ メ ノ マエ ノ コウケイ ガ キエテシマイ、 モト ノ	The vision suddenly fades, and	35	3DF69	3DF69
+RESPONSE:3DF8E	クリスタル ノ タマ ガ アラワレマシタ。	the orb is back.	22	3DF8E	3DF8E
+RESPONSE:3E801	ケラケラ ト イウ ワライ ゴエ ガ、 ヨル ノ シジマ ヲ 	Loud cackling cuts through	34	3E801	3E801
+RESPONSE:3E825	キリ サク ヨウニ	the calm	9	3E825	3E825
+RESPONSE:3E830	 キコエテ キマス。	of night.	10	3E830	3E830
+RESPONSE:3E83C	2、 3ワ ノ コウモリ ガ アナタ ノ ズジョウ デ	A few bats flutter above you,	31	3E83C	3E83C
+RESPONSE:3E85D	トビカイ ヤガテ トビサッテ イキ マシタ。	then wing away.	25	3E85D	3E85D
+RESPONSE:3E87B	ハルカカナタ カラ オオカミ ノ トオボエ ガ	A wolf's distant howl	25	3E87B	3E87B
+RESPONSE:3E896	キコエ テ キマス。	is audible	10	3E896	3E896
+RESPONSE:3E8A2	トオク カラ ウメキゴエ ガ キコエ テ キマス。	You hear a distant groan.	27	3E8A2	3E8A2
+RESPONSE:3E8C2	ブキミナ カゲ ガ 「	A grim shadow	14	3E8C2	3E8C2
+RESPONSE:3E8D2	、 	,	2	3E8D2	3E8D2
+RESPONSE:3E8D6	」 ト 	""""	4	3E8D6	3E8D6
+RESPONSE:3E8DC	ツブヤキ ナガラ タダヨイ サッテ イキ マシタ。	murmurs as it drifts away.	28	3E8DC	3E8DC
+RESPONSE:3E901	チカク デ ナニカ カサカサ ト イウ オトガ シテ イマス。	You hear a rustle nearby.	33	3E901	3E901
+RESPONSE:3E927	アラアラシイ コエ ガ 「タチサレ」 ト サケン デ、 イマス。	"A harsh voice yells, ""Go away!"""	34	3E927	3E927
+RESPONSE:3E94E	ホウ、ホウ、 ダレダ ? ナンダ フクロウ 	Hoot! Who's there? Just	25	3E94E	3E94E
+RESPONSE:3E969	ジャナイカ	an owl	6	3E969	3E969
+RESPONSE:3E971	アナタノ ウシロ カラ キミ ノ ワルイ コエガ、 	A sinister voice comes	27	3E971	3E971
+RESPONSE:3E98E	キコエ テ キマス。	behind you	10	3E98E	3E98E
+RESPONSE:3E99A	オヒメサマハ、 アナタ ニ ヨリソッテ イマス。	Sabrina stays close.	24	3E99A	3E99A
+RESPONSE:3E9B4	ネコガ ネズミ ヲ オッテ イマス。	A cat chases a rat.	20	3E9B4	3E9B4
+RESPONSE:3F201	メイチュウ !	Hit!	7	3F201	3F201
+RESPONSE:3F20A	オオカミ オトコハ、 ダンマツマ ノ ヒメイ 	The werewolf shrieks	24	3F20A	3F20A
+RESPONSE:3F224	ヲ アゲテ クズレ フシマシタ。	and collapses.	18	3F224	3F224
+RESPONSE:3F238	ソノ スガタハ、 シダイ ニ ロウスイ シタ 	It slowly turns into	25	3F238	3F238
+RESPONSE:3F253	トシヨリ ニ カワッテ ユキ ヤガテ ボロボロ ニ	a frail old man, then	28	3F253	3F253
+RESPONSE:3F271	クズレテ、 ヒトニギリ ノ チリ ニ ナッテ	crumbles into dust.	24	3F271	3F271
+RESPONSE:3F28B	 シマイ	 	4	3F28B	3F28B
+RESPONSE:3F291	 マシタ。	 	5	3F291	3F291
+RESPONSE:3F298	ナニヲ ツカイ マスカ ?	Use what?	13	3F298	3F298
+RESPONSE:3F2A7	ソンナ モノデワ ムリ デス。	That won't work.	17	3F2A7	3F2A7
+RESPONSE:3F2BA	ピストル ニハ、 タマ ガ ハイッテ イマセン。	The pistol is unloaded.	26	3F2BA	3F2BA
+RESPONSE:3F2D6	アナタハ、 ピストル ヲ モッテ イマセン。	You have no pistol.	23	3F2D6	3F2D6
+RESPONSE:3F301	ピストル ニ タマ ヲ ツメ マシタ。	You load the pistol.	20	3F301	3F301
+RESPONSE:3F317	タマ ヲ モッテ イマセン。	No ammunition.	14	3F317	3F317
+RESPONSE:3F327	モウ テオクレ デス。	Too late.	12	3F327	3F327
+RESPONSE:3F335	ケムクジャラ ナ アクマハ、 アナタ ヲ	The shaggy beast	21	3F335	3F335
+RESPONSE:3F34C	バンメシ ノ オカズ ニ シテシマイ マシタ。	made you its dinner.	25	3F34C	3F34C
+RESPONSE:3F367	イチジョウ ノ メ モ クラム ヨウナ ヒカリガ、	A blinding beam bursts	27	3F367	3F367
+RESPONSE:3F384	ジュウジカ カラ ホトバシリ デマシタ。	from the cross.	24	3F384	3F384
+RESPONSE:3F39E	キュウケツキハ、 ヒメイ ヲ アゲルト、	The vampire shrieks.	21	3F39E	3F39E
+RESPONSE:3F3B5	キュウニ バラバラ ニ クズレテ、	Then he crumbles	20	3F3B5	3F3B5
+RESPONSE:3F3CB	ヒト ニギリ ノ ハイ ニ	into a fistful	14	3F3CB	3F3CB
+RESPONSE:3F3DB	ナッテ シマイ マシタ。	of ash.	12	3F3DB	3F3DB
+RESPONSE:3F401	アナタハ、 ジュウジカ ヲ モッテ イマセン。	You don't have the cross.	25	3F401	3F401
+RESPONSE:3F41C	リュウセイ ガ トンダヨウナ キガシマス。	Something like a meteor.	24	3F41C	3F41C
+RESPONSE:3F436	オオキナ ワシ ガ マイ オリテ キテ、	An eagle swoops down,	21	3F436	3F436
+RESPONSE:3F44D	オオキナ ツメデ アナタ ヲ ツカム ト	clutches you,	21	3F44D	3F44D
+RESPONSE:3F464	モリ ノ ベツ ノ バショ ヘ 	and carries you	18	3F464	3F464
+RESPONSE:3F478	ハコン デ シマイ マシタ。	to other woods.	15	3F478	3F478
+RESPONSE:3FC01	タイヨウ ガ チヘイセン カラ 	The sun begins	17	3FC01	3FC01
+RESPONSE:3FC14	ノボリ ハジメ マシタ。	to rise.	14	3FC14	3FC14
+RESPONSE:3FC24	モハヤ、 テオクレ デス。 	It's too late.	15	3FC24	3FC24
+RESPONSE:3FC35	トツゼン アナタハ、 ナニモノ カニ ヨッテ	Someone suddenly	23	3FC35	3FC35
+RESPONSE:3FC4E	タタキ フセラレ マシタ。	lays you out.	13	3FC4E	3FC4E
+RESPONSE:3FC5D	アタマ ノ ウシロ ニ イタミ ヲ 	Your head aches.	18	3FC5D	3FC5D
+RESPONSE:3FC71	カンジテ メ ヲ サマスト	You wake up.	14	3FC71	3FC71
+RESPONSE:3FC81	サブリナ ヒメ ノ ナキガラ ガ 	Sabrina lies dead	20	3FC81	3FC81
+RESPONSE:3FC97	チシオ ノ ナカ ニ 	in a pool	11	3FC97	3FC97
+RESPONSE:3FCA4	ヨコ タワッテ イル ノヲ ミマシタ。	of blood.	19	3FCA4	3FCA4
+RESPONSE:3FCB9	サンザン クロウシテ アナタハ タイガン ニ タドリツキマシタ。	At last you reach the far shore.	35	3FCB9	3FCB9
+RESPONSE:3FD01	シカシ サブリナ ヒメ ヲ ツレテイナイ アナタ ニ、 シロ ノ エイヘイ	Without Sabrina, the castle guards	38	3FD01	3FD01
+RESPONSE:3FD29	ハ ジョウリク ヲ ユルシテ クレマセン。	won't let you land.	22	3FD29	3FD29
+RESPONSE:3FD41	ソシテ エイヘイ ハ ジョウリク スレバ クビヲ キラレルカラ	They threaten to behead you and	34	3FD41	3FD41
+RESPONSE:3FD65	ヨット デ モドッテ ユケ、 ト イイマシタ。	tell you to sail back.	25	3FD65	3FD65
+RESPONSE:3FD80	シカタナク アナタ ハ フタタビ モドッテ キマシタ。	You have no choice but to go.	29	3FD80	3FD80
+RESPONSE:40601	ホウキ ハ アナタ ヲ フリオトソウト スルカノヨウニ アバレマシタガ	The broom bucks and nearly throws	37	40601	40601
+RESPONSE:40628	アナタ ハ ヤット ノ コトデ ホウキ ヲ コントロール スルコト ガ	you off. You barely get it	37	40628	40628
+RESPONSE:4064F	デキマシタ。	steady.	7	4064F	4064F
+RESPONSE:40658	ホウキ ハ モリ ノ ウエ ニ タカク マイアガリ、 アオイ ツキ ノ	You soar above the forest. Pale	36	40658	40658
+RESPONSE:4067E	ヒカリ ニ カガヤク トランシルバニア ノ オカ ガ ヒトメ デ	moonlight floods the hills	36	4067E	4067E
+RESPONSE:406A4	ミワタセマス。	below.	7	406A4	406A4
+RESPONSE:406AD	ホウキ ハ インキ ナ シロ ノ ウエ ヲ 2カイ ワ ヲ カイテ トビ、	The broom circles the castle twice	38	406AD	406AD
+RESPONSE:406D5	ミナミ ヘ ムカイ ミズウミ ノ ホウ ヘト トンデユキマス。	and heads south toward the lake.	33	406D5	406D5
+RESPONSE:40701	ミズウミ ハ モリ ノ サキ ニ ヒロビロ ト ヒロガッテ イマス。	A lake stretches beyond the woods.	37	40701	40701
+RESPONSE:40728	トツゼン ホウキ ハ ミズウミ ヘト ラッカ シテ、 ホトリ ニ アル	The broom dives toward it and	37	40728	40728
+RESPONSE:4074F	オオキナ ヤナギ ノ キ ノ エダ ニ ブツカリマシタ。	strikes a willow by the shore.	31	4074F	4074F
+RESPONSE:40770	アナタ ガ キイタ サイゴ ノ オト ハ マホウツカイ ノ オオキナ	The last thing you hear is	36	40770	40770
+RESPONSE:40796	ワライ ゴエ デシタ。	Jin laughing.	13	40796	40796
+RESPONSE:41001	ホン ハ ホトンドノ ページ ガ ヤブレテ イマスガ、	Almost all the pages are torn.	33	41001	41001
+RESPONSE:41024	ノコッタ 1ページ ニハ コウ カイテ アリマス。	The one left reads:	27	41024	41024
+RESPONSE:41041	「・・・ジュモン ヲ トクタメ ニハ マホウ ノ ミズグスリ ヲ	"""To break the spell, sprinkle the"	35	41041	41041
+RESPONSE:41066	ソノ ヒト ニ フリカケネバ ナラヌ。	potion on them.	20	41066	41066
+RESPONSE:4107C	ミズグスリ ノ シヨウ ニ オイテハ、 マズ コウカ ヲ タカメル	Shake well to activate it,	36	4107C	4107C
+RESPONSE:410A2	タメ ニ ヨク フルコト。 ソシテ ソレ ヲ フリカケル。 サイゴ ニ	then sprinkle it. To finish,	36	410A2	410A2
+RESPONSE:410C8	テ ヲ タタイテ カンペキ ト スルコト ヲ ワスレズニ」	"remember to clap your hands."""	31	410C8	410C8
+RESPONSE:41A01	アナタ ノ ユビワ カラ ハッシタ シロイ ヒカリ ガ ドウゾウ ニ	White light from your ring hits	38	41A01	41A01
+RESPONSE:41A29	ブツカルト、 アナタ ノ マワリ ハ ミドリ ト シロ ノ ヒカリ ニ	the statue. Green and white light	37	41A29	41A29
+RESPONSE:41A50	トリカコマレマシタ。	wraps you.	10	41A50	41A50
+RESPONSE:41A5C	アカイ ヒノタマ ガ ミドリ ト シロ ノ ヒカリ ノ ナカ カラ	A red fireball rises from the glow.	35	41A5C	41A5C
+RESPONSE:41A81	ウキアガルト イセイジン ノ カゲ ガ ヒノタマ ノ マエ ニ	An alien in front of the fireball	35	41A81	41A81
+RESPONSE:41AA6	アラワレマシタ。	appears.	8	41AA6	41AA6
+RESPONSE:41AB0	アカルサ ガ ウスレテ ユク ナカデ イセイジン ハ イイマシタ。	As the light fades, the alien says,	36	41AB0	41AB0
+RESPONSE:41AD6	「ヤット オアイ デキマシタネ。 アナタ ハ ナガイ トラワレ ノ	"""At last we meet. You freed me"	35	41AD6	41AD6
+RESPONSE:41B01	セイカツ カラ ワタシ ヲ カイホウ シテ クレマシタ。 アナタ ニハ	after years in captivity.	35	41B01	41B01
+RESPONSE:41B26	フカク カンシャ シテイマス」	"Thank you."""	15	41B26	41B26
+RESPONSE:41B37	イセイジン ハ アナタ カラ ユビワ ヲ ウケトルト、 ソレヲ タタキ	The alien takes your ring and	37	41B37	41B37
+RESPONSE:41B5E	コワシマシタ。 スルト ハゲシイ バクハツ ガ オキ、 ソノ ケムリ	smashes it. A blast rocks the air.	37	41B5E	41B5E
+RESPONSE:41B85	ノ アトニハ イセイジン モ ドウゾウ モ アナタ ノ シカイ カラ	When the smoke clears, the alien	37	41B85	41B85
+RESPONSE:41BAC	キエサッテ イマシタ。	is gone.	11	41BAC	41BAC
+RESPONSE:42401	イチド ニバシャ ヲ オリナイト ソチラ ニハ ユケマセン。	Get off the cart first.	32	42401	42401
+RESPONSE:42423	アナタ ハ ニバシャ ヲ オリマス。	You leave the cart.	19	42423	42423
+RESPONSE:42438	オソロシイ オオカミオトコ ガ イマス。	A dreadful werewolf.	21	42438	42438
+RESPONSE:4244F	ウエ ニハ ユクコトガ デキマセン。	You can't go up.	20	4244F	4244F
+RESPONSE:42465	ネズミ ガ サンビキ イマス。	Three rats.	18	42465	42465
+RESPONSE:42479	カンオケ ガ アリマス。	A coffin.	13	42479	42479
+RESPONSE:42488	アナタ ハ イマ ソノ ウエ ニ イマス。	You're on it.	21	42488	42488
+RESPONSE:4249F	シタイ モ、 アナタ ヲ ニランデ イマス。	The corpse glares back.	23	4249F	4249F
+RESPONSE:424B8	オオカミオトコ ガ アラワレマシタ。	A werewolf appears.	19	424B8	424B8
+RESPONSE:424CD	コレイジョウ モノヲ モツコトハ デキマセン。	You can't carry any more.	25	424CD	424CD
+RESPONSE:424E8	モクセイ ノ ヒツギ デス。	A wooden coffin.	16	424E8	424E8
+RESPONSE:42501	カンオケ ニハ クサッタ シタイ ガ ハイッテイマス。	A rotting corpse lies inside	28	42501	42501
+RESPONSE:4251F	ゲンキ ノ イイ、 サンビキ ノ ネズミ デス。	Three lively rats.	28	4251F	4251F
+RESPONSE:4253D	ツキ ノ ヒカリ ヲ ハンシャシテ、 カガヤイテ イマス。	It gleams in the moonlight.	30	4253D	4253D
+RESPONSE:4255D	フタ ハ アイテイマス。	Lid open.	12	4255D	4255D
+RESPONSE:4256B	フタ ヲ アケルト ハゲシイ アクシュウ ガ オソッテ キマシタ。	You lift the lid. A stench hits.	35	4256B	4256B
+RESPONSE:42590	フタ ハ シマッテイマス。	Lid closed.	13	42590	42590
+RESPONSE:4259F	アナタ ハ オソロシクテ オモタイ フタ ヲ モツコトガ デキマセン。	The grim, heavy lid is too much.	37	4259F	4259F
+RESPONSE:425C6	ソンナコト オソロシクテ トテモ デキマセン。	It's too frightening.	24	425C6	425C6
+RESPONSE:425E0	オソルオソル ダンガン ヲ トリマシタ。	You take the bullet.	22	425E0	425E0
+RESPONSE:42601	モウ テオクレ デス。 ケムクジャラ ナ アクマ ハ アナタ ヲ	Too late. The shaggy brute ate you	34	42601	42601
+RESPONSE:42625	バンメシ ノ オカズ ニ シテ シマイマシタ。	for dinner.	25	42625	42625
+RESPONSE:42640	アナタ ハ スバヤク ネズミ ヲ ツカマエマシタ。	You snatch up a rat.	27	42640	42640
+RESPONSE:4265D	ココニハ カンオケ ガ アリマス。	A coffin is here.	18	4265D	4265D
+RESPONSE:42671	ココニハ クサッタ シタイ ノ ハイッタ カンオケ ガ アリマス。	A coffin holds a rotting corpse.	34	42671	42671
+RESPONSE:42695	ネズミハ ニゲテ シマイマシタ。	The rats fled.	18	42695	42695
+RESPONSE:426A9	カンオケノ ナカニ ギンノ ダンガン ガ アリマス。	A silver bullet in the coffin.	30	426A9	426A9
+RESPONSE:42E01	ハカイシノ ソバニ ジュウジカ ガ オチテイマス。	A cross by the headstone.	29	42E01	42E01
+RESPONSE:42E20	アナタハ モリ ヲ アルイテ ユキマス。	You enter the woods.	20	42E20	42E20
+RESPONSE:42E36	ユケマセン。	No way	6	42E36	42E36
+RESPONSE:42E44	ハカイシ ガ アリマス。	A headstone.	13	42E44	42E44
+RESPONSE:42E53	オオキナ サビツイタ コウシド ガ アリマス。	A large, rusty iron gate.	26	42E53	42E53
+RESPONSE:42E6F	ツキ ノ ヒカリ ノ ギャクコウ ニ ナリ、 カゲノ ヨウデス。	It stands dark against the moon.	35	42E6F	42E6F
+RESPONSE:42E94	オオキナ マンゲツ ノ ツキ ガ デテイマス。	A large full moon is up.	26	42E94	42E94
+RESPONSE:42EB0	ハカイシ ノ ウシロ ニ コウシド ガ アルノニ キヅキマシタ。	You spot a gate behind the grave.	35	42EB0	42EB0
+RESPONSE:42ED5	キギ ガ オイシゲッテイマス。	Trees grow thick.	18	42ED5	42ED5
+RESPONSE:42EE9	アナタ ハ ハカイシ 	You look at	11	42EE9	42EE9
+RESPONSE:42F01	ツルツル シタ コケ ガ ミキ ヲ オオッテオリ、 ノボレマセン。	Slick moss makes it unclimbable.	35	42F01	42F01
+RESPONSE:42F26	「	""""	1	42F26	42F26
+RESPONSE:42F29	、 ココニ ネムル」	rests here	10	42F29	42F29
+RESPONSE:42F35	ト シルサレテオリ、 ヒヅケ ハ キョウ ノ モノ ニ ナッテイマス。	The date on the stone is today's.	36	42F35	42F35
+RESPONSE:42F5B	ミチ ハ ナンボク ト ニシ ニ ツヅイテ イマス。	Paths lead N, S, and W.	28	42F5B	42F5B
+RESPONSE:42F79	カカッテイマス。	Locked.	8	42F79	42F79
+RESPONSE:42F83	アイテイマス。	Open.	7	42F83	42F83
+RESPONSE:42F8C	カカリマシタ。	Locked.	7	42F8C	42F8C
+RESPONSE:42F95	モウ テオクレ デス。 ケムクジャラ ナ アクマ ハ アナタ ヲ	Too late. The shaggy brute ate you	34	42F95	42F95
+RESPONSE:42FB9	バンメシ ノ オカズ ニ シテ シマイマシタ。	for dinner.	25	42FB9	42FB9
+RESPONSE:42FD4	アキマシタ。	Opened	6	42FD4	42FD4
+RESPONSE:42FDC	シマッテイマス。	Shut.	8	42FDC	42FDC
+RESPONSE:42FE9	シマリマシタ。	Closed.	7	42FE9	42FE9
+RESPONSE:43001	オオカミオトコ ガ イマス。	A werewolf.	15	43001	43001
+RESPONSE:43012	オオカミオトコ ガ メノマエ ニ アラワレマシタ。	A werewolf appears.	26	43012	43012
+RESPONSE:4302E	コレイジョウ ウゴキマセン。	It won't budge.	16	4302E	4302E
+RESPONSE:43040	カギガ アリマセン。	No key.	12	43040	43040
+RESPONSE:4304E	カギガ カカッテマス。	It's locked.	13	4304E	4304E
+RESPONSE:4305D	ハカノ シタニ ハイッテユキマス。	You go below.	17	4305D	4305D
+RESPONSE:43070	コレイジョウ モテマセン。	You're full.	14	43070	43070
+RESPONSE:43080	モクセイ デス。	Wooden.	9	43080	43080
+RESPONSE:4308B	カギハ 	Lock:	5	4308B	4308B
+RESPONSE:43092	コウシドハ 	Gate:	7	43092	43092
+RESPONSE:4309B	ノ ウエカラ ジュウジカ ヲ ヒロイマシタ。	you pick up a cross.	24	4309B	4309B
+RESPONSE:43801	ミズグスリ ガ オイテアリマス。	A potion lies here.	19	43801	43801
+RESPONSE:43816	セマイ チカシツ ノ ナカデハ ソンナニ ミウゴキ トレマセン。	The cellar is too cramped.	34	43816	43816
+RESPONSE:4383A	アナタ チカシツ カラ デテ ユキマス。	You leave the cellar.	21	4383A	4383A
+RESPONSE:43854	シタ ニハ ユクコトガ デキマセン。	You can't go down.	20	43854	43854
+RESPONSE:4386A	ツキアカリ ガ サシコンデ イマス。	Moonlight seeps in.	20	4386A	4386A
+RESPONSE:43883	マックラナ カベデス。	A dark wall.	13	43883	43883
+RESPONSE:4389E	アナタ ハ カガンデ ミズグスリ ヲ トリマシタ。	You pick up the potion.	29	4389E	4389E
+RESPONSE:438BD	マホウ ノ ミズグスリ ノ ヨウデス。	Looks like a potion.	22	438BD	438BD
+RESPONSE:438D5	コレイジョウ モテマセン。	You're full.	14	438D5	438D5
+INLINE:38F07	ﾄｹｲ ｶﾞ 	It is  	7	38F07	38F07
+INLINE:38F0F	 ｦ ｳﾁﾏｼﾀ｡	 o'clock.	9	38F0F	38F0F
+INLINE:4E844	ｼﾊﾞﾗｸ ｵﾏﾁ ｸﾀﾞｻｲ...	Please wait...	18	4E844	4E844
+INLINE:4E8C4	* ﾖﾐｺﾐ ﾌﾘｮｳ * ﾊｼﾞﾒ ｶﾗ ﾔﾘﾅｵｼﾃ ﾐﾃ ｸﾀﾞｻｲ｡	* DISK READ ERROR * Restart the game.	38	4E8C4	4E8C4
+RESPONSE:42700	ｺﾜﾚﾀ ﾆﾊﾞｼｬ ﾉ ｳｴ ﾆ ｲﾏｽ｡	Atop the broken cart.	22	42700	42700
+RESPONSE:43100	ﾎﾞﾁ ﾉ ﾅｶ ﾆ ｲﾏｽ｡	In a graveyard.	15	43100	43100
+RESPONSE:43B00	ﾎﾞﾁ ﾉ ｼﾀ ﾉ ﾁｶｼﾂ ﾃﾞｽ｡	Below the graveyard.	20	43B00	43B00

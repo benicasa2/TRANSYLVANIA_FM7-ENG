@@ -1,0 +1,53 @@
+﻿6809 address	Entry ID	Japanese	English equivalent	Status
+$2000	$01	ハエ	FLY	Reference only
+$2005	$02	ノート	NOTEBOOK	Reference only
+$200B	$03	ニンニク	GARLIC	Reference only
+$2012	$04	マント	CLOAK	Reference only
+$2018	$05	ナイフ	KNIFE	Reference only
+$201E	$06	ダンガン	BULLET	Reference only
+$2027	$06	タマ	ROUND	Reference only
+$202C	$07	ネズミ	RAT	Reference only
+$2033	$08	ミズグスリ	POTION	Reference only
+$203D	$09	パン	BREAD	Reference only
+$2043	$12	ピストル	PISTOL	Reference only
+$204A	$0B	エンサン	ACID	Reference only
+$2051	$0C	ホウキ	BROOM	Reference only
+$2057	$0D	カギ	KEY	Reference only
+$205D	$0E	ハエトリガミ	FLYPAPER	Reference only
+$2067	$0F	ツタ	VINE	Reference only
+$206C	$10	ユビワ	RING	Reference only
+$2073	$11	ハコ	BOX	Reference only
+$2078	$0A	ジュウジカ	CROSS	Reference only
+$2081	$13	オオカミ	WOLF	Reference only
+$2087	$14	ドラキュラ	DRACULA	Reference only
+$2090	$14	キュウケツキ	VAMPIRE	Reference only
+$2099	$15	トル	TAKE	Reference only
+$209E	$15	ヒロウ	PICK UP	Reference only
+$20A4	$16	オク	PUT	Reference only
+$20A9	$16	オトス	DROP	Reference only
+$20AF	$17	ミル	LOOK	Reference only
+$20B4	$17	シラベル	EXAMINE	Reference only
+$20BC	$18	タタク	KNOCK	Reference only
+$20C2	$18	ケル	KICK	Reference only
+$20C7	$19	コロス	KILL	Reference only
+$20CD	$1A	ウツ	SHOOT	Reference only
+$20D2	$1A	ハッシャ	FIRE	Reference only
+$20D9	$1B	ツメル	LOAD	Reference only
+$20DF	$1B	コメル	PACK	Reference only
+$20E5	$1B	イレル	INSERT	Reference only
+$20EB	$1C	ミセル	SHOW	Reference only
+$20F1	$1C	ナゲル	THROW	Reference only
+$20F8	$1D	マワリ	SURROUNDINGS	Reference only
+$2100	$1D	ケシキ	SCENERY	Reference only
+$2106	$1D	ヘヤ	ROOM	Reference only
+$210B	$1E	キ	TREE	Reference only
+$210F	$1F	オオカミ	WOLF	Reference only
+$2115	$1F	ピストル	PISTOL	Reference only
+$2200	$01	キタ	NORTH	Applied to disk
+$2204	$02	ミナミ	SOUTH	Applied to disk
+$2209	$03	ヒガシ	EAST	Applied to disk
+$220F	$04	ニシ	WEST	Applied to disk
+$2213	$05	ウエ	UP	Applied to disk
+$2217	$06	シタ	DOWN	Applied to disk
+$221B	$07	IJNID	IJNID	Applied to disk
+$2222	$08	モチモノ	INVENTORY	Applied to disk
